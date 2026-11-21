@@ -1,0 +1,6 @@
+{
+  "name": "StudyApp",
+  "description": "Neon-accented dark academic tracker with PDF syllabus & test extraction, interactive quizzes with math/subjective marking, synced to-do list, streaks, badges, and leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

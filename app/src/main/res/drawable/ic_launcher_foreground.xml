@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing outer shield/hex frame -->
+    <path
+        android:fillColor="#00D4FF"
+        android:fillAlpha="0.16"
+        android:pathData="M54,22 L79,36 L79,68 L54,82 L29,68 L29,36 Z" />
+    <!-- Academic mortarboard & open energy book emblem -->
+    <path
+        android:fillColor="#00D4FF"
+        android:pathData="M54,28 L80,41 L54,54 L28,41 Z" />
+    <!-- Lower book / cap base -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M36,49 L54,58 L72,49 L72,62 C72,68 64,73 54,73 C44,73 36,68 36,62 Z" />
+    <!-- Neon streak lightning / flame spark accent -->
+    <path
+        android:fillColor="#FF8A2B"
+        android:pathData="M75,45 L79,45 L79,66 L75,66 Z" />
+    <path
+        android:fillColor="#FF6B2B"
+        android:pathData="M77,64 C80,64 81,69 77,74 C73,69 74,64 77,64 Z" />
+    <!-- Subtle inner highlight -->
+    <path
+        android:fillColor="#E0F7FF"
+        android:pathData="M54,34 L69,41 L54,48 L39,41 Z" />
+</vector>

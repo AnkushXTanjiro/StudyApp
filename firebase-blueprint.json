@@ -1,0 +1,275 @@
+{
+  "entities": {
+    "UserProfile": {
+      "title": "UserProfile",
+      "description": "Private academic profile, streak metrics, unlocked badges, and reminder preferences for a StudyApp user.",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string", "description": "Firebase Auth UID of the owner." },
+        "displayName": { "type": "string", "description": "Student display name (1-60 chars)." },
+        "streakDays": { "type": "integer", "description": "Current active daily study streak." },
+        "longestStreak": { "type": "integer", "description": "Longest achieved daily study streak." },
+        "xp": { "type": "integer", "description": "Total experience points earned." },
+        "lastStudyDate": { "type": "string", "description": "ISO date YYYY-MM-DD of last completed study action." },
+        "unlockedBadges": { "type": "array", "description": "List of unlocked badge IDs (max 30)." },
+        "dailyGoalTopics": { "type": "integer", "description": "Target syllabus topics or tasks per day (1-50)." },
+        "reminderHour": { "type": "integer", "description": "Daily notification reminder hour (0-23)." },
+        "reminderMinute": { "type": "integer", "description": "Daily notification reminder minute (0-59)." },
+        "remindersEnabled": { "type": "boolean", "description": "Whether daily study reminders are active." },
+        "syllabusSeeded": { "type": "boolean", "description": "Whether default Group-A B.Tech syllabus has been seeded." },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Server timestamp (FieldValue.serverTimestamp())." },
+        "updatedAt": { "type": "string", "format": "date-time", "description": "Server timestamp (FieldValue.serverTimestamp())." }
+      },
+      "required": [
+        "userId",
+        "displayName",
+        "streakDays",
+        "longestStreak",
+        "xp",
+        "lastStudyDate",
+        "unlockedBadges",
+        "dailyGoalTopics",
+        "reminderHour",
+        "reminderMinute",
+        "remindersEnabled",
+        "syllabusSeeded",
+        "createdAt",
+        "updatedAt"
+      ]
+    },
+    "LeaderboardEntry": {
+      "title": "LeaderboardEntry",
+      "description": "Non-PII public leaderboard entry for student streak and XP competition.",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string", "description": "Firebase Auth UID of the student." },
+        "displayName": { "type": "string", "description": "Student display name (no email or PII)." },
+        "xp": { "type": "integer", "description": "Total XP earned." },
+        "streakDays": { "type": "integer", "description": "Current study streak." },
+        "topicsCompleted": { "type": "integer", "description": "Total syllabus topics completed." },
+        "testsCompleted": { "type": "integer", "description": "Total tests completed." },
+        "badgesCount": { "type": "integer", "description": "Total unlocked badges." },
+        "publicVisible": { "type": "boolean", "description": "Opt-in flag for leaderboard visibility." },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Server timestamp." },
+        "updatedAt": { "type": "string", "format": "date-time", "description": "Server timestamp." }
+      },
+      "required": [
+        "userId",
+        "displayName",
+        "xp",
+        "streakDays",
+        "topicsCompleted",
+        "testsCompleted",
+        "badgesCount",
+        "publicVisible",
+        "createdAt",
+        "updatedAt"
+      ]
+    },
+    "SubjectDoc": {
+      "title": "SubjectDoc",
+      "description": "Academic subject containing ordered units and syllabus topics.",
+      "type": "object",
+      "properties": {
+        "courseCode": { "type": "string", "description": "Course code e.g. 100102." },
+        "title": { "type": "string", "description": "Subject title." },
+        "credits": { "type": "integer", "description": "Total credits (0-20)." },
+        "category": { "type": "string", "enum": ["THEORY", "LAB"], "description": "Theory or Lab course." },
+        "sortOrder": { "type": "integer", "description": "Display ordering index." },
+        "units": { "type": "array", "description": "Bounded list of units containing topics." },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Server timestamp." },
+        "updatedAt": { "type": "string", "format": "date-time", "description": "Server timestamp." }
+      },
+      "required": [
+        "courseCode",
+        "title",
+        "credits",
+        "category",
+        "sortOrder",
+        "units",
+        "createdAt",
+        "updatedAt"
+      ]
+    },
+    "TodoItem": {
+      "title": "TodoItem",
+      "description": "Study task created manually, from the Syllabus, or from the Timetable.",
+      "type": "object",
+      "properties": {
+        "title": { "type": "string", "description": "Task title." },
+        "notes": { "type": "string", "description": "Optional study notes." },
+        "sourceType": { "type": "string", "enum": ["MANUAL", "SYLLABUS", "TIMETABLE"] },
+        "subjectId": { "type": "string", "description": "Linked subject document ID if any." },
+        "subjectTitle": { "type": "string", "description": "Linked subject title." },
+        "unitId": { "type": "string", "description": "Linked unit ID if any." },
+        "unitTitle": { "type": "string", "description": "Linked unit title." },
+        "topicId": { "type": "string", "description": "Linked syllabus topic ID for automatic completion sync." },
+        "priority": { "type": "string", "enum": ["LOW", "MEDIUM", "HIGH"] },
+        "dueLabel": { "type": "string", "description": "Human-readable schedule label." },
+        "completed": { "type": "boolean", "description": "Task completion status." },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Server timestamp." },
+        "updatedAt": { "type": "string", "format": "date-time", "description": "Server timestamp." }
+      },
+      "required": [
+        "title",
+        "notes",
+        "sourceType",
+        "subjectId",
+        "subjectTitle",
+        "unitId",
+        "unitTitle",
+        "topicId",
+        "priority",
+        "dueLabel",
+        "completed",
+        "createdAt",
+        "updatedAt"
+      ]
+    },
+    "TimetableSlot": {
+      "title": "TimetableSlot",
+      "description": "Weekly timetable lecture, lab, or self-study block.",
+      "type": "object",
+      "properties": {
+        "dayOfWeek": { "type": "integer", "description": "1=Monday through 7=Sunday." },
+        "startTime": { "type": "string", "description": "Start time string e.g. 09:00." },
+        "endTime": { "type": "string", "description": "End time string e.g. 10:00." },
+        "subjectId": { "type": "string", "description": "Optional linked subject ID." },
+        "subjectTitle": { "type": "string", "description": "Subject or session name." },
+        "unitHint": { "type": "string", "description": "Planned unit/topic focus." },
+        "room": { "type": "string", "description": "Room or Lab name." },
+        "slotType": { "type": "string", "enum": ["LECTURE", "LAB", "SELF_STUDY"] },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Server timestamp." },
+        "updatedAt": { "type": "string", "format": "date-time", "description": "Server timestamp." }
+      },
+      "required": [
+        "dayOfWeek",
+        "startTime",
+        "endTime",
+        "subjectId",
+        "subjectTitle",
+        "unitHint",
+        "room",
+        "slotType",
+        "createdAt",
+        "updatedAt"
+      ]
+    },
+    "TestQuestion": {
+      "title": "TestQuestion",
+      "description": "Unit-wise objective or subjective question supporting math symbols, diagrams, and marking schemes.",
+      "type": "object",
+      "properties": {
+        "subjectId": { "type": "string" },
+        "subjectTitle": { "type": "string" },
+        "unitId": { "type": "string" },
+        "unitTitle": { "type": "string" },
+        "topicCode": { "type": "string" },
+        "topicTitle": { "type": "string" },
+        "questionType": { "type": "string", "enum": ["MCQ", "SUBJECTIVE"] },
+        "prompt": { "type": "string" },
+        "formulaExpr": { "type": "string" },
+        "diagramKind": { "type": "string" },
+        "imageUri": { "type": "string" },
+        "options": { "type": "array" },
+        "correctOptionIndex": { "type": "integer" },
+        "maxMarks": { "type": "integer" },
+        "modelAnswer": { "type": "string" },
+        "markingScheme": { "type": "array" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": [
+        "subjectId",
+        "subjectTitle",
+        "unitId",
+        "unitTitle",
+        "topicCode",
+        "topicTitle",
+        "questionType",
+        "prompt",
+        "formulaExpr",
+        "diagramKind",
+        "imageUri",
+        "options",
+        "correctOptionIndex",
+        "maxMarks",
+        "modelAnswer",
+        "markingScheme",
+        "createdAt",
+        "updatedAt"
+      ]
+    },
+    "TestReport": {
+      "title": "TestReport",
+      "description": "Saved post-test report card with marks, time taken, weak/strong/improve topics, and per-question rubric breakdown.",
+      "type": "object",
+      "properties": {
+        "subjectId": { "type": "string" },
+        "subjectTitle": { "type": "string" },
+        "unitId": { "type": "string" },
+        "unitTitle": { "type": "string" },
+        "obtainedMarks": { "type": "number" },
+        "totalMarks": { "type": "number" },
+        "percentage": { "type": "number" },
+        "durationSeconds": { "type": "integer" },
+        "totalQuestions": { "type": "integer" },
+        "correctCount": { "type": "integer" },
+        "strongTopics": { "type": "array" },
+        "weakTopics": { "type": "array" },
+        "improveTopics": { "type": "array" },
+        "questionBreakdown": { "type": "array" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": [
+        "subjectId",
+        "subjectTitle",
+        "unitId",
+        "unitTitle",
+        "obtainedMarks",
+        "totalMarks",
+        "percentage",
+        "durationSeconds",
+        "totalQuestions",
+        "correctCount",
+        "strongTopics",
+        "weakTopics",
+        "improveTopics",
+        "questionBreakdown",
+        "createdAt",
+        "updatedAt"
+      ]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": { "$ref": "#/entities/UserProfile" },
+      "description": "Private student profile, streak, XP, badges, and reminder settings."
+    },
+    "/leaderboard/{userId}": {
+      "schema": { "$ref": "#/entities/LeaderboardEntry" },
+      "description": "Public opt-in academic leaderboard ranked by XP and streak (no PII)."
+    },
+    "/users/{userId}/subjects/{subjectId}": {
+      "schema": { "$ref": "#/entities/SubjectDoc" },
+      "description": "User's academic subjects containing structured units and topics."
+    },
+    "/users/{userId}/todos/{todoId}": {
+      "schema": { "$ref": "#/entities/TodoItem" },
+      "description": "User's study to-do tasks linked to syllabus topics or timetable slots."
+    },
+    "/users/{userId}/timetable/{slotId}": {
+      "schema": { "$ref": "#/entities/TimetableSlot" },
+      "description": "User's weekly academic timetable schedule."
+    },
+    "/users/{userId}/questions/{questionId}": {
+      "schema": { "$ref": "#/entities/TestQuestion" },
+      "description": "Unit-wise extracted or user-created test questions with math and marking schemes."
+    },
+    "/users/{userId}/reports/{reportId}": {
+      "schema": { "$ref": "#/entities/TestReport" },
+      "description": "Permanent archive of generated test report cards."
+    }
+  }
+}

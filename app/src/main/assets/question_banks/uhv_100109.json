@@ -1,0 +1,4275 @@
+[
+  {
+    "id": "uhv_u1_q01",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.1",
+    "topicTitle": "Self-Exploration",
+    "questionType": "MCQ",
+    "prompt": "Self-exploration is a process of —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Memorising scriptures",
+      "Dialogue between 'what I am' and 'what I really want to be'",
+      "Debating with others",
+      "Following tradition blindly"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Dialogue between 'what I am' and 'what I really want to be'",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_q02",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.1",
+    "topicTitle": "Self-Exploration",
+    "questionType": "MCQ",
+    "prompt": "The two basic tools of self-exploration are —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Reading and writing",
+      "Natural acceptance and experiential validation",
+      "Competition and comparison",
+      "Reward and punishment"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Natural acceptance and experiential validation",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_q03",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.1",
+    "topicTitle": "Self-Exploration",
+    "questionType": "MCQ",
+    "prompt": "The process of value education is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Rote learning",
+      "Lecturing only",
+      "Self-exploration",
+      "Punishment-based training"
+    ],
+    "correctOptionIndex": 2,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (c): Self-exploration",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_q04",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.1",
+    "topicTitle": "Self-Exploration",
+    "questionType": "MCQ",
+    "prompt": "Natural acceptance is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Same as social conditioning",
+      "Constant for all human beings, not changing with time, place or person",
+      "Different for every culture",
+      "Learned from media"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Constant for all human beings, not changing with time, place or person",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_q05",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.1",
+    "topicTitle": "Self-Exploration",
+    "questionType": "MCQ",
+    "prompt": "Experiential validation means —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Believing whatever the authority says",
+      "Verifying proposals on the basis of one's own living and finding them true",
+      "Memorising proposals",
+      "Ignoring natural acceptance"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Verifying proposals on the basis of one's own living and finding them true",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_q06",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.1",
+    "topicTitle": "Self-Exploration",
+    "questionType": "MCQ",
+    "prompt": "Which of the following is NOT a basic guideline for value education?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Universality",
+      "Rationality",
+      "Naturalness",
+      "Profitability"
+    ],
+    "correctOptionIndex": 3,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (d): Profitability",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_s01",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.1",
+    "topicTitle": "Self-Exploration",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What is self-exploration? Explain its process.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "Self-exploration is the process of dialogue between \"what I am\" (my present beliefs, desires, behaviour) and \"what I really want to be\" (my natural acceptance).\n• I first observe my own conditioning – my beliefs, assumptions and behaviour as they are today.\n• I then check them against my natural acceptance – what is naturally acceptable to me, e.g. trust, respect, happiness.\n• The proposal is then verified by living (experiential validation) – does it give lasting happiness in actual life?\n• What is found true is adopted; what is false is dropped. This brings continuous self-correction.\n• It is a self-driven, universal and verifiable process – nothing is to be accepted just because someone said so.",
+    "markingScheme": [
+      "2M: I first observe my own conditioning",
+      "2M: I then check them against my natural acceptance",
+      "1M: It is a self-driven, universal and verifiable process"
+    ]
+  },
+  {
+    "id": "uhv_u1_s02",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.1",
+    "topicTitle": "Self-Exploration",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain natural acceptance and experiential validation.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Natural acceptance: the feeling that is naturally acceptable to every human being without any conditioning – e.g. everybody wants to be respected, trusted, happy.\n• Experiential validation: checking a proposal by actually living it and observing its result in my life, family and surroundings.\n• Natural acceptance is the first test; experiential validation is the second test. A proposal is accepted only when both agree.\n• Natural acceptance does not change with time, place or person, whereas conditioned beliefs keep changing.\n[Point | Natural acceptance | Experiential validation]\n• Nature | Inner feeling / acceptance | Living and verifying\n• Based on | Self (I) | Experience in life\n• Role | Tells \"what is right\" for me | Confirms it in practice",
+    "markingScheme": [
+      "3M: Natural acceptance",
+      "2M: Experiential validation"
+    ]
+  },
+  {
+    "id": "uhv_u1_s03",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.1",
+    "topicTitle": "Self-Exploration",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the basic guidelines for value education.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "Value education must satisfy four basic guidelines so that it is acceptable to all:\n• Universality – the content must be true for all human beings, at all times and places.\n• Rationality – it must be understandable and logical, to be accepted by reasoning.\n• Naturalness – it must be naturally acceptable to the Self, without pressure or fear.\n• Verifiability – it can be verified by every person on the basis of his/her own living (experiential validation).\n• Together they make the content \"all-encompassing and leading to harmony\".",
+    "markingScheme": [
+      "2M: Universality",
+      "1M: Rationality",
+      "1M: Naturalness",
+      "1M: Verifiability"
+    ]
+  },
+  {
+    "id": "uhv_u1_l01",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.1",
+    "topicTitle": "Self-Exploration",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What is value education? Explain its need, content, process and the basic guidelines.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 10,
+    "modelAnswer": "1. Meaning\n• Value education is the education that helps us understand what is of value to us and how to live in harmony – within ourselves, with family, society and nature.\n• It complements skills (how to do) with values (what to do and why).\n2. Need for value education\n• Technology and skills have grown, but happiness and peace have not – the result is stress, depression, family breakdown, terrorism, pollution and global warming.\n• Skills without values can be misused – e.g. technology for weapons or exploitation of nature.\n• It gives a correct understanding of what we really want (happiness and prosperity) and how to achieve it.\n• It helps us set our goals and priorities right and remove confusion and contradiction in our thinking.\n3. Content of value education\n• Understanding the basic human aspirations – happiness and prosperity.\n• Understanding human being as co-existence of Self and Body.\n• Understanding harmony at four levels: individual, family, society, nature/existence.\n• Understanding values in human relationships and ethical conduct.\n4. Process of value education\n• The process is self-exploration: natural acceptance + experiential validation.\n• Not by memorising or accepting on authority, but by verifying within oneself.\n5. Basic guidelines\n• Universality, Rationality, Naturalness, Verifiability.\nConclusion\n• Value education makes us aware of what is right and enables us to live with continuous happiness and mutual prosperity.",
+    "markingScheme": [
+      "2M: Meaning",
+      "2M: Need for value education",
+      "2M: Content of value education",
+      "2M: Process of value education",
+      "1M: Basic guidelines",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u1_q07",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.2",
+    "topicTitle": "Continuous Happiness and Prosperity",
+    "questionType": "MCQ",
+    "prompt": "The basic human aspirations are —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Fame and power",
+      "Happiness and prosperity",
+      "Wealth only",
+      "Pleasure only"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Happiness and prosperity",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_q08",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.2",
+    "topicTitle": "Continuous Happiness and Prosperity",
+    "questionType": "MCQ",
+    "prompt": "Happiness is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Physical comfort",
+      "A state of harmony/synergy that I like to remain in continuously",
+      "Buying more things",
+      "Winning over others"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): A state of harmony/synergy that I like to remain in continuously",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_q09",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.2",
+    "topicTitle": "Continuous Happiness and Prosperity",
+    "questionType": "MCQ",
+    "prompt": "Prosperity is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Only having money",
+      "The feeling of having or making available more than required physical facilities",
+      "Having power",
+      "Having a big house"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): The feeling of having or making available more than required physical facilities",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_q10",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.2",
+    "topicTitle": "Continuous Happiness and Prosperity",
+    "questionType": "MCQ",
+    "prompt": "Which is NOT a basic requirement for fulfilling human aspirations?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Right understanding",
+      "Relationship",
+      "Physical facility",
+      "Social status"
+    ],
+    "correctOptionIndex": 3,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (d): Social status",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_q11",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.2",
+    "topicTitle": "Continuous Happiness and Prosperity",
+    "questionType": "MCQ",
+    "prompt": "The need for physical facility is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Unlimited",
+      "Limited and quantifiable",
+      "Not needed at all",
+      "As much as possible"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Limited and quantifiable",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_q12",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.2",
+    "topicTitle": "Continuous Happiness and Prosperity",
+    "questionType": "MCQ",
+    "prompt": "At present, human beings try to get happiness mainly through —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Right understanding",
+      "Relationship with all",
+      "Accumulation of physical facilities",
+      "Self-exploration"
+    ],
+    "correctOptionIndex": 2,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (c): Accumulation of physical facilities",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_s04",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.2",
+    "topicTitle": "Continuous Happiness and Prosperity",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Define happiness and prosperity. State the difference between them.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Happiness is the state in which there is no contradiction or conflict within me; I like to remain in that state continuously. It is a feeling of the Self.\n• Prosperity is the feeling of having or making available more than required physical facilities.\n• Happiness depends on right understanding and relationship; prosperity depends on correct assessment of need and production of physical facility.\n• Both together are the basic human aspirations – every human being wants both, and wants them continuously.\n[Point | Happiness | Prosperity]\n• Nature | Feeling / state of Self | Feeling of sufficiency\n• Depends on | Right understanding, relationship | Need assessment + physical facility\n• Quantity | Not measurable | Measurable (limited)\n• Duration | Continuous | Needed continuously, but facilities are consumed",
+    "markingScheme": [
+      "5M: Both together are the basic human aspirations"
+    ]
+  },
+  {
+    "id": "uhv_u1_s05",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.2",
+    "topicTitle": "Continuous Happiness and Prosperity",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Why do we not have continuous happiness today even though physical facilities have increased?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• We assume physical facility = happiness, which is a wrong assumption.\n• Physical facility gives only temporary pleasure to the body; its effect ends when the facility is used up.\n• The desire for more is unlimited, so there is a permanent feeling of deprivation.\n• The Self (I) needs happiness through right understanding and relationship, which we ignore.\n• Result – stress, loneliness, broken relationships and nature exploitation despite plenty of facilities.",
+    "markingScheme": [
+      "5M: Result"
+    ]
+  },
+  {
+    "id": "uhv_u1_s06",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.2",
+    "topicTitle": "Continuous Happiness and Prosperity",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the method to fulfil the basic human aspirations.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Step 1: Understand the aspirations – happiness and prosperity – and what is required for each.\n• Step 2: Right understanding (of oneself, relationships and existence) comes first.\n• Step 3: Live in right relationship with trust and respect.\n• Step 4: Assess the need for physical facility correctly and produce/earn it with labour.\n• Result: continuous happiness (through understanding + relationship) and prosperity (through physical facility).",
+    "markingScheme": [
+      "1M: Step 1",
+      "1M: Step 2",
+      "1M: Step 3",
+      "1M: Step 4",
+      "1M: Result"
+    ]
+  },
+  {
+    "id": "uhv_u1_l02",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.2",
+    "topicTitle": "Continuous Happiness and Prosperity",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the basic human aspirations – happiness and prosperity. Discuss the current scenario about their fulfilment and the way to fulfil them continuously.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 12,
+    "modelAnswer": "1. Basic human aspirations\n• Every human being wants to live with happiness (a state of harmony) and prosperity (sufficiency of physical facility).\n• These are common to all, irrespective of age, place, religion or profession – hence \"basic\".\n• We want them continuously, not for a moment or a day.\n2. Current scenario\n• We are trying to fulfil both through accumulation of physical facility only.\n• The individual level: stress, depression, anxiety, suicide. Family level: breakdown of relationships, dowry, divorce, generation gap.\n• Society level: terrorism, communal violence, corruption, wars, disparities. Nature level: pollution, global warming, resource depletion.\n• Result: people have more facilities but less happiness and a feeling of insecurity and deprivation.\n3. Why this happens\n• Wrong assumption that physical facility = happiness.\n• Ignoring the need of the Self (happiness) and focusing only on the need of the Body (facility).\n• No assessment of need, so desire for more is unlimited.\n4. The way to fulfil them\n• Develop right understanding through self-exploration.\n• Live in right relationships based on trust and respect.\n• Make physical facilities available in the right quantity through proper work.\n• Make others also happy – mutual happiness and mutual prosperity.\nConclusion\n• Continuous happiness is possible only by harmony of right understanding, relationship and physical facility in the right order.",
+    "markingScheme": [
+      "3M: Basic human aspirations",
+      "3M: Current scenario",
+      "3M: Why this happens",
+      "2M: The way to fulfil them",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u1_q13",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.3",
+    "topicTitle": "Right Understanding",
+    "questionType": "MCQ",
+    "prompt": "Right understanding is the understanding of —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Technology and gadgets",
+      "Harmony in myself and in existence at all levels",
+      "Law and politics",
+      "Business strategy"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Harmony in myself and in existence at all levels",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_q14",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.3",
+    "topicTitle": "Right Understanding",
+    "questionType": "MCQ",
+    "prompt": "The most basic requirement for continuous happiness is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Physical facility",
+      "Right understanding",
+      "Wealth",
+      "Power"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Right understanding",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_q15",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.3",
+    "topicTitle": "Right Understanding",
+    "questionType": "MCQ",
+    "prompt": "The correct priority order for fulfilling human aspirations is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Physical facility → Relationship → Understanding",
+      "Relationship → Physical facility → Understanding",
+      "Right understanding → Relationship → Physical facility",
+      "Physical facility → Understanding → Relationship"
+    ],
+    "correctOptionIndex": 2,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (c): Right understanding → Relationship → Physical facility",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_q16",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.3",
+    "topicTitle": "Right Understanding",
+    "questionType": "MCQ",
+    "prompt": "Excess consumption and exploitation of nature mainly result from —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Lack of right understanding",
+      "Too much education",
+      "Too little technology",
+      "Poverty only"
+    ],
+    "correctOptionIndex": 0,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (a): Lack of right understanding",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_q17",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.3",
+    "topicTitle": "Right Understanding",
+    "questionType": "MCQ",
+    "prompt": "Right understanding is developed through —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Rote memorisation",
+      "Education-sanskar and self-exploration",
+      "Competition",
+      "Wealth"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Education-sanskar and self-exploration",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_q18",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.3",
+    "topicTitle": "Right Understanding",
+    "questionType": "MCQ",
+    "prompt": "A person with right understanding realises that happiness comes from —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Possessing more things",
+      "Harmony / right understanding",
+      "Defeating others",
+      "Fame"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Harmony / right understanding",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u1_s07",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.3",
+    "topicTitle": "Right Understanding",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What is right understanding? Why is it the first requirement for a happy life?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Right understanding means understanding what is real and what is really beneficial, i.e. harmony in self, family, society and nature.\n• Only with right understanding can I differentiate \"what to do\" from \"what not to do\".\n• It makes relationships harmonious (trust and respect) and the use of physical facility proper.\n• Without it, relationships and facilities cannot give lasting happiness – they become sources of conflict.\n• Hence it has first priority; relationship and physical facility follow.",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u1_s08",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.3",
+    "topicTitle": "Right Understanding",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the role of education and sanskar in developing right understanding.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Education is the means of transferring understanding; sanskar is the means of living with that understanding.\n• Education-sanskar develops the competence to understand and live in harmony.\n• Today education only trains for skills (earning); right understanding is missing in the system.\n• Hence value education must be added with skills to remove the present confusion.",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u1_s09",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.3",
+    "topicTitle": "Right Understanding",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Describe the three requirements – right understanding, relationship and physical facility – and their sequence.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Right understanding: continuous, and needed at every moment.\n• Relationship: needed continuously, for all of life; fulfilled with trust and respect.\n• Physical facility: needed in limited, quantifiable amount, for the body.\n• Correct sequence – understanding → relationship → physical facility; today we do the reverse.",
+    "markingScheme": [
+      "2M: Right understanding",
+      "1M: Relationship",
+      "1M: Physical facility",
+      "1M: Correct sequence"
+    ]
+  },
+  {
+    "id": "uhv_u1_l03",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_1",
+    "unitTitle": "Unit 1.0: Self-Exploration, Happiness & Prosperity",
+    "topicCode": "1.3",
+    "topicTitle": "Right Understanding",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What is right understanding? Explain its need and how its lack creates problems at the individual, family, society and nature levels.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 10,
+    "modelAnswer": "1. Meaning\n• Right understanding = clear understanding of oneself, relationships and existence, leading to harmony at all levels.\n• It is the basis for right feeling, right thinking and right action.\n2. Need\n• To fulfil happiness (needs understanding + relationship) and prosperity (needs correct use of physical facility).\n• To remove contradictions in values, beliefs and behaviour.\n• To decide priorities correctly – understanding first, relationship second, physical facility third.\n3. Effects of lack of right understanding\n• Individual: stress, depression, inferiority, suicidal thoughts.\n• Family: distrust, conflicts, divorce, generation gap.\n• Society: violence, terrorism, corruption, exploitation, communalism.\n• Nature: pollution, climate change, over-consumption, loss of biodiversity.\n4. How to develop right understanding\n• Through self-exploration: natural acceptance + experiential validation.\n• Through value education and a fair, supportive environment (family, institution, society).\n• By living what is understood – sanskar.\nConclusion\n• Right understanding is the root; once it is in place, relationship and physical facility start working in harmony, and happiness becomes continuous.",
+    "markingScheme": [
+      "3M: Meaning",
+      "2M: Need",
+      "2M: Effects of lack of right understanding",
+      "2M: How to develop right understanding",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u2_q01",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.1",
+    "topicTitle": "Right Understanding, Relationship and Physical Facility",
+    "questionType": "MCQ",
+    "prompt": "The correct order of priority for a happy life is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Physical facility → Relationship → Understanding",
+      "Right understanding → Relationship → Physical facility",
+      "Relationship → Physical facility → Understanding",
+      "Physical facility → Understanding → Relationship"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Right understanding → Relationship → Physical facility",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q02",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.1",
+    "topicTitle": "Right Understanding, Relationship and Physical Facility",
+    "questionType": "MCQ",
+    "prompt": "Physical facilities are meant for the —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Self (I)",
+      "Body",
+      "Relationship",
+      "Society only"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Body",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q03",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.1",
+    "topicTitle": "Right Understanding, Relationship and Physical Facility",
+    "questionType": "MCQ",
+    "prompt": "The need for physical facility is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Unlimited and unquantifiable",
+      "Limited and quantifiable",
+      "Not required",
+      "Only for the rich"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Limited and quantifiable",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q04",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.1",
+    "topicTitle": "Right Understanding, Relationship and Physical Facility",
+    "questionType": "MCQ",
+    "prompt": "The need for right understanding and relationship is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Temporary",
+      "Continuous",
+      "Needed only at old age",
+      "Limited and quantifiable"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Continuous",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q05",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.1",
+    "topicTitle": "Right Understanding, Relationship and Physical Facility",
+    "questionType": "MCQ",
+    "prompt": "When we focus only on physical facilities and ignore the rest, the result is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Continuous happiness",
+      "Feeling of deprivation and conflict",
+      "Perfect harmony",
+      "Right understanding"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Feeling of deprivation and conflict",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q06",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.1",
+    "topicTitle": "Right Understanding, Relationship and Physical Facility",
+    "questionType": "MCQ",
+    "prompt": "Relationships are needed mainly for —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Earning money",
+      "Mutual happiness, through trust and respect",
+      "Showing off",
+      "Physical comfort only"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Mutual happiness, through trust and respect",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_s01",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.1",
+    "topicTitle": "Right Understanding, Relationship and Physical Facility",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the sequence of priority of right understanding, relationship and physical facility.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• 1st – Right understanding: it gives clarity of what I want and how to live; without it relationships and facility both mislead.\n• 2nd – Relationship: with right understanding I live with trust and respect, which gives continuous happiness.\n• 3rd – Physical facility: needed for the Body in limited quantity; produced or earned after assessing the need.\n• Today the order is reversed – physical facility first, and relationship / understanding ignored – hence problems.",
+    "markingScheme": [
+      "2M: 1st",
+      "1M: 2nd",
+      "1M: 3rd",
+      "1M: Today the order is reversed"
+    ]
+  },
+  {
+    "id": "uhv_u2_s02",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.1",
+    "topicTitle": "Right Understanding, Relationship and Physical Facility",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Why is physical facility alone not sufficient for a happy life?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Physical facility is for the Body; happiness is the need of the Self (I).\n• It gives only temporary pleasure, and the pleasure ends once the facility is consumed.\n• It is limited and quantifiable, but our desire for it is unlimited, causing a feeling of deprivation.\n• Excess accumulation damages relationships and nature.\n• Hence relationship and right understanding are also required.",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u2_s03",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.1",
+    "topicTitle": "Right Understanding, Relationship and Physical Facility",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Differentiate between right understanding, relationship and physical facility.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "[Aspect | Right understanding | Relationship | Physical facility]\n• Need of | Self | Self | Body\n• Nature | Qualitative, continuous | Qualitative, continuous | Quantitative, limited\n• Gives | Clarity, direction | Trust, respect, happiness | Nourishment, protection\n• Priority | First | Second | Third",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u2_l01",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.1",
+    "topicTitle": "Right Understanding, Relationship and Physical Facility",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain right understanding, relationship and physical facility as the three requirements for fulfilling human aspirations. Why must they follow the correct sequence?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 10,
+    "modelAnswer": "1. Introduction\n• Human aspirations are happiness and prosperity. Three things are required: right understanding, relationship and physical facility.\n2. Right understanding\n• Understanding of what is real, what is to be done and what is beneficial. It is the foundation.\n• Needed continuously, by every human being, at all times.\n3. Relationship\n• Living with others on the basis of trust, respect, affection and care.\n• It brings the feeling of mutual happiness; the need is continuous because humans live in relationships.\n4. Physical facility\n• Food, clothing, shelter, medicine, transport, etc. – required for the nourishment, protection and right utilisation of the Body.\n• The need is limited and quantifiable; excess is a burden.\n5. Why the sequence matters\n• If understanding is missing, we assume facility = happiness and run after it endlessly.\n• Facility without relationship becomes conflict and exploitation.\n• With the right sequence, facilities are used for mutual prosperity and relationships for mutual happiness.\nExample\n• A rich family with no trust among members is still unhappy; a modest family with trust and respect is happy – showing that relationship and understanding matter more.\nConclusion\n• Hence we must follow understanding → relationship → physical facility to get both happiness and prosperity.",
+    "markingScheme": [
+      "2M: Introduction",
+      "2M: Right understanding",
+      "2M: Relationship",
+      "2M: Physical facility",
+      "1M: Why the sequence matters",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u2_q07",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.2",
+    "topicTitle": "Happiness and Prosperity",
+    "questionType": "MCQ",
+    "prompt": "Happiness is a feeling of —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Body",
+      "Self (I)",
+      "Market",
+      "Society"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Self (I)",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q08",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.2",
+    "topicTitle": "Happiness and Prosperity",
+    "questionType": "MCQ",
+    "prompt": "Prosperity depends on —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Possession of physical facility only",
+      "Correct assessment of need and having more than the need",
+      "Fame",
+      "Competition"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Correct assessment of need and having more than the need",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q09",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.2",
+    "topicTitle": "Happiness and Prosperity",
+    "questionType": "MCQ",
+    "prompt": "Deprivation arises when —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Needs are assessed correctly",
+      "Desires are unlimited and need is not assessed",
+      "Facilities are in excess",
+      "Relationship is right"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Desires are unlimited and need is not assessed",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q10",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.2",
+    "topicTitle": "Happiness and Prosperity",
+    "questionType": "MCQ",
+    "prompt": "Sensory pleasure is generally —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Continuous",
+      "Temporary",
+      "Permanent",
+      "Independent of senses"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Temporary",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q11",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.2",
+    "topicTitle": "Happiness and Prosperity",
+    "questionType": "MCQ",
+    "prompt": "Which of the following gives lasting happiness?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Right understanding and right relationship",
+      "Expensive gadgets",
+      "A bigger house",
+      "More followers"
+    ],
+    "correctOptionIndex": 0,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (a): Right understanding and right relationship",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q12",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.2",
+    "topicTitle": "Happiness and Prosperity",
+    "questionType": "MCQ",
+    "prompt": "The need for physical facility can be fulfilled by —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Labour (production / earning) with right need assessment",
+      "Wishing only",
+      "Taking from others",
+      "Ignoring it"
+    ],
+    "correctOptionIndex": 0,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (a): Labour (production / earning) with right need assessment",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_s04",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.2",
+    "topicTitle": "Happiness and Prosperity",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Distinguish between happiness and pleasure.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "[Point | Happiness | Pleasure]\n• Source | Self (harmony, understanding) | Senses / Body through physical facility\n• Duration | Continuous | Temporary\n• Nature | Natural acceptance, lasting | Dependent on object and ends after use\n• Result | Peace and fulfilment | Craving for more",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u2_s05",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.2",
+    "topicTitle": "Happiness and Prosperity",
+    "questionType": "SUBJECTIVE",
+    "prompt": "How can prosperity be ensured? Explain the steps.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Step 1 – Identify the need for physical facility with proper assessment – it is limited and quantifiable.\n• Step 2 – Produce or earn that facility by labour, more than the need (so there is a feeling of sufficiency).\n• Step 3 – Use it rightly – for nourishment, protection and right utilisation of the Body.\n• Step 4 – Share the surplus to enrich others – this gives mutual prosperity.",
+    "markingScheme": [
+      "2M: Step 1",
+      "1M: Step 2",
+      "1M: Step 3",
+      "1M: Step 4"
+    ]
+  },
+  {
+    "id": "uhv_u2_s06",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.2",
+    "topicTitle": "Happiness and Prosperity",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain how happiness is related to harmony in the Self.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Happiness is a state in which there is no contradiction in my desire, thought and expectation.\n• When my natural acceptance, thoughts and behaviour are in line, I feel harmony and thus happiness.\n• If they conflict, I feel stress and unhappiness.\n• Therefore happiness comes from within, not from outside objects.",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u2_l02",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.2",
+    "topicTitle": "Happiness and Prosperity",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain happiness and prosperity in detail. Differentiate them and discuss the programme to ensure both at the individual level.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 10,
+    "modelAnswer": "1. Happiness\n• A state of harmony / synergy in the Self, which I like and wish to continue.\n• Its source is the Self; it comes from right understanding and right relationship.\n2. Prosperity\n• The feeling of having more than the required physical facility.\n• It requires (a) correct assessment of need and (b) production / availability of facility.\n3. Difference\n[Basis | Happiness | Prosperity]\n• Related to | Self (I) | Body (through physical facility)\n• Measurable? | No – qualitative | Yes – quantifiable\n• Depends on | Understanding, relationship | Need assessment, production\n• Absence leads to | Stress, dissatisfaction | Deprivation, insecurity\n4. Programme at the individual level\n• Do self-exploration to develop right understanding.\n• Maintain right relationships (trust and respect).\n• Assess the need for physical facility, then work for it.\n• Use facilities rightly and help others to be happy and prosperous.\nConclusion\n• Happiness and prosperity become continuous when both are pursued together with the right understanding.",
+    "markingScheme": [
+      "3M: Happiness",
+      "2M: Prosperity",
+      "2M: Difference",
+      "2M: Programme at the individual level",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u2_q13",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.3",
+    "topicTitle": "Human Being as Co-existence of the Sentient 'Self' and the Material 'Body'",
+    "questionType": "MCQ",
+    "prompt": "A human being is the co-existence of —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Mind and brain",
+      "Sentient 'I' (Self) and material Body",
+      "Soul and spirit only",
+      "Body only"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Sentient 'I' (Self) and material Body",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q14",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.3",
+    "topicTitle": "Human Being as Co-existence of the Sentient 'Self' and the Material 'Body'",
+    "questionType": "MCQ",
+    "prompt": "The need of 'I' (Self) is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Physical facility",
+      "Happiness",
+      "Food",
+      "Clothing"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Happiness",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q15",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.3",
+    "topicTitle": "Human Being as Co-existence of the Sentient 'Self' and the Material 'Body'",
+    "questionType": "MCQ",
+    "prompt": "The need of the Body is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Happiness",
+      "Right understanding",
+      "Physical facility",
+      "Trust"
+    ],
+    "correctOptionIndex": 2,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (c): Physical facility",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q16",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.3",
+    "topicTitle": "Human Being as Co-existence of the Sentient 'Self' and the Material 'Body'",
+    "questionType": "MCQ",
+    "prompt": "'I' (Self) is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Material",
+      "Sentient / conscious",
+      "Chemical",
+      "Made of cells"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Sentient / conscious",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q17",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.3",
+    "topicTitle": "Human Being as Co-existence of the Sentient 'Self' and the Material 'Body'",
+    "questionType": "MCQ",
+    "prompt": "In the human being, 'I' is the —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Seer, doer and enjoyer",
+      "Instrument only",
+      "Food",
+      "Machine"
+    ],
+    "correctOptionIndex": 0,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (a): Seer, doer and enjoyer",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q18",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.3",
+    "topicTitle": "Human Being as Co-existence of the Sentient 'Self' and the Material 'Body'",
+    "questionType": "MCQ",
+    "prompt": "Sanyam means —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Neglect of the Body",
+      "Feeling of responsibility for nurturing, protecting and rightly utilising the Body",
+      "Misusing the Body",
+      "Seeking only pleasure"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Feeling of responsibility for nurturing, protecting and rightly utilising the Body",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_q19",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.3",
+    "topicTitle": "Human Being as Co-existence of the Sentient 'Self' and the Material 'Body'",
+    "questionType": "MCQ",
+    "prompt": "Swasthya (health) means —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Having expensive medicines",
+      "Body fit and performing its expected functions in harmony with the Self",
+      "Being very strong",
+      "Being thin"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Body fit and performing its expected functions in harmony with the Self",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u2_s07",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.3",
+    "topicTitle": "Human Being as Co-existence of the Sentient 'Self' and the Material 'Body'",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Differentiate between the needs of the Self ('I') and the Body.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "[Aspect | Self ('I') | Body]\n• Nature | Sentient / conscious | Material / physical\n• Need | Happiness (right understanding, trust, respect) | Physical facility (food, clothing, shelter)\n• Nature of need | Qualitative, continuous | Quantitative, temporary\n• Fulfilled by | Right understanding and relationship | Production and right utilisation\n• Result when fulfilled | Feeling of happiness | Feeling of prosperity / health",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u2_s08",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.3",
+    "topicTitle": "Human Being as Co-existence of the Sentient 'Self' and the Material 'Body'",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What do you mean by Sanyam and Swasthya?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Sanyam is the feeling of responsibility in the Self for the nurturing, protection and right utilisation of the Body.\n• Swasthya (health) is the condition of the Body in which it is fit, performing its expected functions and the Self is in harmony with it.\n• Sanyam is the activity of the Self; Swasthya is the result in the Body.\n• Without Sanyam, the Body becomes the master of the Self – leading to unhealthy habits and disease.",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u2_s09",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.3",
+    "topicTitle": "Human Being as Co-existence of the Sentient 'Self' and the Material 'Body'",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the activities of the Self ('I').",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• The Self is sentient and performs activities: desire, thought and selection (expectation) – together called imagination.\n• It also has realisation and understanding – i.e. knowing the truth.\n• The Self is the seer, doer and enjoyer; the Body is the instrument.\n• Harmony in these activities (no contradiction among them) gives happiness.",
+    "markingScheme": [
+      "3M: The Self is sentient and performs activities",
+      "2M: It also has realisation and understanding"
+    ]
+  },
+  {
+    "id": "uhv_u2_l03",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.3",
+    "topicTitle": "Human Being as Co-existence of the Sentient 'Self' and the Material 'Body'",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the human being as the co-existence of the sentient 'Self' and the material 'Body'. Differentiate their characteristics and needs.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 12,
+    "modelAnswer": "1. Introduction\n• A human being is not just a Body. It is the co-existence of the Self (I) and the Body, which constantly interact.\n2. The Self ('I')\n• Sentient / conscious; the seer, doer and enjoyer.\n• Activities: desire, thought, selection, realisation and understanding.\n• Need: happiness; it also feels harmony, trust, respect.\n3. The Body\n• Material, made of physical elements; acts as the instrument of the Self.\n• Activities: eating, breathing, sensing etc.\n• Need: physical facility – food, clothing, shelter, etc.\n4. Difference\n[Basis | Self ('I') | Body]\n• Nature | Sentient | Material\n• Need | Happiness | Physical facility\n• Duration of need | Continuous | Temporary / limited\n• Measurable? | No | Yes\n5. Interaction and misunderstanding\n• The Self and the Body influence each other: if the Self is disturbed, the Body gets ill; if the Body is sick, the Self is disturbed.\n• Mistake: we treat the human being as only Body, and try to fulfil all needs with physical facility – which gives pleasure, not happiness.\nConclusion\n• Right understanding of the human being as Self + Body is the basis for living in harmony.",
+    "markingScheme": [
+      "3M: Introduction",
+      "2M: The Self ('I')",
+      "2M: The Body",
+      "2M: Difference",
+      "2M: Interaction and misunderstanding",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u2_l04",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_2",
+    "unitTitle": "Unit 2.0: Relationship, Physical Facility & Human Being",
+    "topicCode": "2.3",
+    "topicTitle": "Human Being as Co-existence of the Sentient 'Self' and the Material 'Body'",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain harmony of the Self with the Body. Discuss the programme of Sanyam and Swasthya for ensuring it.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 10,
+    "modelAnswer": "1. Harmony of Self and Body\n• The Self is the master, the Body is the instrument. Harmony exists when the Body acts according to the Self's decision.\n• It gives health (Swasthya) and happiness.\n2. Sanyam (self-regulation)\n• Nurturing – feed the Body with proper food in the right quantity.\n• Protection – protect it from harm, weather, disease and bad habits.\n• Right utilisation – use the Body for the work that gives mutual happiness (not for self-harm or pleasure only).\n3. Swasthya (health)\n• The Body is fit and performing its expected function; the Self is in harmony.\n• Maintained by proper diet, exercise (asana, pranayama), rest and a positive mind.\n4. Programme\n• Assess the physical needs correctly.\n• Take right quantity of food, hygiene and exercise.\n• Avoid over-consumption, addiction, wrong lifestyle.\n• Follow a schedule of work, rest and recreation.\nConclusion\n• Sanyam and Swasthya ensure that the Body supports the Self in attaining happiness and prosperity.",
+    "markingScheme": [
+      "3M: Harmony of Self and Body",
+      "2M: Sanyam (self-regulation)",
+      "2M: Swasthya (health)",
+      "2M: Programme",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u3_q01",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.1",
+    "topicTitle": "Values in Human-Human Relationship",
+    "questionType": "MCQ",
+    "prompt": "The number of values in human-human relationship is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Five",
+      "Seven",
+      "Nine",
+      "Twelve"
+    ],
+    "correctOptionIndex": 2,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (c): Nine",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u3_q02",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.1",
+    "topicTitle": "Values in Human-Human Relationship",
+    "questionType": "MCQ",
+    "prompt": "The foundational values in a relationship are —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Love and care",
+      "Trust and respect",
+      "Gratitude and glory",
+      "Affection and guidance"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Trust and respect",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u3_q03",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.1",
+    "topicTitle": "Values in Human-Human Relationship",
+    "questionType": "MCQ",
+    "prompt": "Trust means —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Blind belief",
+      "Assurance that the other person has the right intention (wants to make me happy)",
+      "Believing in competence only",
+      "Fear of the other"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Assurance that the other person has the right intention (wants to make me happy)",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u3_q04",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.1",
+    "topicTitle": "Values in Human-Human Relationship",
+    "questionType": "MCQ",
+    "prompt": "Respect means —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Flattery",
+      "Right evaluation – accepting the other as he/she is",
+      "Fear of seniors",
+      "Giving gifts"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Right evaluation – accepting the other as he/she is",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u3_q05",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.1",
+    "topicTitle": "Values in Human-Human Relationship",
+    "questionType": "MCQ",
+    "prompt": "Differentiation in a relationship is based on —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Right evaluation",
+      "Body, wealth, post, age, gender, etc.",
+      "Natural acceptance",
+      "Trust"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Body, wealth, post, age, gender, etc.",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u3_q06",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.1",
+    "topicTitle": "Values in Human-Human Relationship",
+    "questionType": "MCQ",
+    "prompt": "Gratitude is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Feeling of obligation",
+      "Acknowledging those who have contributed to my development",
+      "Seeking favours",
+      "Ignoring the past"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Acknowledging those who have contributed to my development",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u3_q07",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.1",
+    "topicTitle": "Values in Human-Human Relationship",
+    "questionType": "MCQ",
+    "prompt": "The feeling of responsibility for the body (physical facility) of the other is called —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Respect",
+      "Care (Mamta)",
+      "Reverence",
+      "Gratitude"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Care (Mamta)",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u3_s01",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.1",
+    "topicTitle": "Values in Human-Human Relationship",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What is trust? Explain its importance in relationships.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Trust is the assurance that the other person's intention is right – i.e. he/she wants to make me happy and prosperous (as I want for him/her).\n• It is the foundational value of all relationships.\n• Trust is about intention, not competence – every person naturally has a right intention.\n• When trust is present, there is no fear, suspicion or conflict; relationships become smooth.\n• Lack of trust is the root cause of problems in family and society.",
+    "markingScheme": [
+      "5M: Trust is about intention, not competence"
+    ]
+  },
+  {
+    "id": "uhv_u3_s02",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.1",
+    "topicTitle": "Values in Human-Human Relationship",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Differentiate between respect and differentiation.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "[Basis | Respect | Differentiation]\n• Meaning | Right evaluation – accepting the other as he/she is | Judging the other by body, wealth, post, age, gender, etc.\n• Based on | Self (the person as a human being) | Body / belongings\n• Result | Mutual happiness and trust | Fear, conflict, discrimination\n• Example | Respecting a junior as a human being | Treating a person differently due to wealth or caste",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u3_s03",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.1",
+    "topicTitle": "Values in Human-Human Relationship",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Differentiate between intention and competence.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "[Aspect | Intention | Competence]\n• Meaning | What I want to be (natural acceptance) | What I am able to do (skills, ability)\n• Nature | Right in every human being | Varies from person to person\n• Basis for | Trust | Evaluation / development\n• Can be developed? | Needs only understanding | Needs training and practice",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u3_l01",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.1",
+    "topicTitle": "Values in Human-Human Relationship",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the nine values in human-human relationship, with special reference to trust and respect as foundational values.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 14,
+    "modelAnswer": "1. Introduction\n• Relationship is the connection between two or more people, fulfilled through values. There are nine values: trust, respect, affection, care, guidance, reverence, glory, gratitude, love.\n2. The foundational values\n• Trust (Vishwas): assurance of right intention in the other (he/she wants me to be happy). Without it, all other values collapse.\n• Respect (Samman): right evaluation of the other as a human being, as he/she is – not based on body, wealth, post, age or gender.\n3. Other values\n• Affection (Sneh): feeling of being related to the other as family.\n• Care (Mamta): feeling of responsibility for the nurturing, protection and right utilisation of the body of the other.\n• Guidance (Vatsalya): feeling of responsibility for the right understanding and feeling of the other (e.g. parents to children, teachers to students).\n• Reverence (Shraddha): acceptance of excellence in the other, in whom I see qualities I wish to attain.\n• Glory (Gaurav): feeling of acceptance towards those who have made efforts for the excellence of society.\n• Gratitude (Kritagyata): acknowledging the contribution of those who helped my development.\n• Love (Prem): feeling of being related to all human beings; the complete value that includes all the above.\n4. Respect vs differentiation\n• Respect = right evaluation; differentiation = judging by body, wealth, post, age, gender.\n• Differentiation leads to discrimination, conflict, disparities in family and society.\n5. Importance\n• Values make the relationship mutually satisfying and give continuous happiness.\n• They are the basis for extending relationship from family to the world family.\nConclusion\n• A relationship is fulfilled only when all nine values are understood and lived – starting with trust and respect.",
+    "markingScheme": [
+      "3M: Introduction",
+      "3M: The foundational values",
+      "3M: Other values",
+      "2M: Respect vs differentiation",
+      "2M: Importance",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u3_l02",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.1",
+    "topicTitle": "Values in Human-Human Relationship",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain trust and respect in detail. How do wrong evaluation and differentiation create problems in family and society?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 10,
+    "modelAnswer": "1. Trust\n• Assurance of the right intention of the other. Every human being wants to be happy and make others happy – this is the natural acceptance.\n• We often judge by competence and then doubt the intention – which causes distrust.\n• Trust is essential: parent–child, teacher–student, friend–friend, boss–employee.\n2. Respect\n• Right evaluation of the other as he/she is, and of myself as I am.\n• Three types of wrong evaluation: over-evaluation, under-evaluation, otherwise evaluation.\n• Respect is for the Self of the person, not for his body or belongings.\n3. Problems due to differentiation\n• Family: gender and age based discrimination, favouritism, generation gap.\n• Society: casteism, racism, communalism, class conflict, corruption.\n• Organisation: insecurity, exploitation and low motivation.\n4. Solution\n• Understand that every human being is the same in intention.\n• Evaluate competence separately to improve it, but respect everyone as a human being.\n• Practise trust and respect in small daily interactions – family first.\nConclusion\n• Trust and respect create a fearless society, the base for the universal human order.",
+    "markingScheme": [
+      "3M: Trust",
+      "2M: Respect",
+      "2M: Problems due to differentiation",
+      "2M: Solution",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u3_q08",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.2",
+    "topicTitle": "Harmony in the Society",
+    "questionType": "MCQ",
+    "prompt": "The family is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "The basic unit of human interaction",
+      "Only a legal unit",
+      "The same as a company",
+      "Not related to society"
+    ],
+    "correctOptionIndex": 0,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (a): The basic unit of human interaction",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u3_q09",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.2",
+    "topicTitle": "Harmony in the Society",
+    "questionType": "MCQ",
+    "prompt": "The comprehensive human goal consists of —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Wealth, power, fame, status",
+      "Resolution, prosperity, fearlessness, co-existence",
+      "Competition, victory, power",
+      "Education only"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Resolution, prosperity, fearlessness, co-existence",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u3_q10",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.2",
+    "topicTitle": "Harmony in the Society",
+    "questionType": "MCQ",
+    "prompt": "Universal human order means —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "A global government",
+      "Undivided society and universal order",
+      "Only a family system",
+      "A military order"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Undivided society and universal order",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u3_q11",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.2",
+    "topicTitle": "Harmony in the Society",
+    "questionType": "MCQ",
+    "prompt": "Which dimension of human order is paired with \"justice\"?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Production",
+      "Preservation",
+      "Storage",
+      "Self-regulation"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Preservation",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u3_q12",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.2",
+    "topicTitle": "Harmony in the Society",
+    "questionType": "MCQ",
+    "prompt": "Undivided society means —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Everyone is the same",
+      "Human being feels related to all human beings",
+      "No families exist",
+      "No rules exist"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Human being feels related to all human beings",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u3_q13",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.2",
+    "topicTitle": "Harmony in the Society",
+    "questionType": "MCQ",
+    "prompt": "Which of these is NOT a dimension of human order?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Education – right living",
+      "Health – self-regulation",
+      "Entertainment – pleasure",
+      "Exchange – storage"
+    ],
+    "correctOptionIndex": 2,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (c): Entertainment – pleasure",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u3_q14",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.2",
+    "topicTitle": "Harmony in the Society",
+    "questionType": "MCQ",
+    "prompt": "Harmony in society starts from —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "The nation",
+      "The family",
+      "The world",
+      "Government"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): The family",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u3_s04",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.2",
+    "topicTitle": "Harmony in the Society",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What is the comprehensive human goal?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "The comprehensive human goal has four components and covers all levels from the individual to the world:\n• Resolution (Samadhan) – individual level: living with right understanding, free from conflict and contradiction.\n• Prosperity (Samriddhi) – family level: every family has more than the required physical facility.\n• Fearlessness (Abhay) – society level: trust in relationships, no fear of anyone.\n• Co-existence (Sah-astitva) – nature / existence level: living in harmony with nature.\n• It is achieved through right understanding and a universal human order.",
+    "markingScheme": [
+      "2M: Resolution (Samadhan)",
+      "1M: Prosperity (Samriddhi)",
+      "1M: Fearlessness (Abhay)",
+      "1M: Co-existence (Sah-astitva)"
+    ]
+  },
+  {
+    "id": "uhv_u3_s05",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.2",
+    "topicTitle": "Harmony in the Society",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain undivided society and universal order.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Undivided society (Akhand Samaj): all human beings feel related to each other as members of one family; no division by caste, religion, nation, etc.\n• Universal order (Sarvabhaum Vyavastha): a common system of living acceptable to all, based on human values and natural acceptance.\n• Together they form the universal human order – a harmonious world.\n• Basis: right understanding + values + mutual fulfilment at all levels.",
+    "markingScheme": [
+      "2M: Undivided society (Akhand Samaj)",
+      "1M: Universal order (Sarvabhaum Vyavastha)",
+      "1M: Together they form the universal human order",
+      "1M: Basis"
+    ]
+  },
+  {
+    "id": "uhv_u3_s06",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.2",
+    "topicTitle": "Harmony in the Society",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the five dimensions of human order.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Education – Right living (Shiksha–Sanskar): understanding and living with right understanding.\n• Health – Self-regulation (Swasthya–Sanyam): healthy body and responsible living.\n• Justice – Preservation (Nyaya–Suraksha): ensuring right relationships and protecting values.\n• Production – Work (Utpadan–Karya): producing physical facilities with the right assessment.\n• Exchange – Storage (Vinimaya–Kosh): fair exchange and storage of resources.",
+    "markingScheme": [
+      "1M: Education",
+      "1M: Health",
+      "1M: Justice",
+      "1M: Production",
+      "1M: Exchange"
+    ]
+  },
+  {
+    "id": "uhv_u3_l03",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.2",
+    "topicTitle": "Harmony in the Society",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the vision of the universal human order – undivided society and universal order – from family to world family.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 14,
+    "modelAnswer": "1. Introduction\n• Individuals live in families; families form society. Harmony in society is the extension of harmony in the family.\n2. Family as the basic unit\n• The family is the first place where values are lived: trust, respect, affection, care, guidance, etc.\n• The aim of a family is mutual happiness and mutual prosperity among its members.\n3. From family to world family\n• Families extend to neighbourhood, village, region, nation and the whole world – each time with the same values.\n• The feeling of relatedness grows from \"my family\" to \"all human beings are my family\".\n4. Undivided society and universal order\n• Undivided society: relatedness among all humans; no discrimination.\n• Universal order: one harmonious system acceptable to all, based on natural acceptance.\n5. Comprehensive human goal\n• Resolution, prosperity, fearlessness, co-existence at all levels.\n6. Five dimensions\n• Education–right living, health–self-regulation, justice–preservation, production–work, exchange–storage.\n7. Benefits\n• No wars or terrorism, trust and fearlessness, proper use of resources, harmony with nature.\nConclusion\n• The universal human order is possible if each individual and family lives with right understanding and values.",
+    "markingScheme": [
+      "3M: Introduction",
+      "3M: Family as the basic unit",
+      "3M: From family to world family",
+      "2M: Undivided society and universal order",
+      "2M: Comprehensive human goal",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u3_l04",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_3",
+    "unitTitle": "Unit 3.0: Values in Human Relationships & Society",
+    "topicCode": "3.2",
+    "topicTitle": "Harmony in the Society",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the five dimensions of human endeavour in the context of the universal human order.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 10,
+    "modelAnswer": "1. Education – Right living\n• Provides understanding of values and skills; makes everyone competent to live in harmony.\n• Present system emphasises only skills – needs to include value education.\n2. Health – Self-regulation\n• Healthy Body + responsible Self. Sanyam ensures right use of the Body.\n3. Justice – Preservation\n• Justice = recognition of values and ensuring fulfilment in relationships. Preservation = protection of what is right and of nature.\n4. Production – Work\n• Producing physical facilities with right assessment of need; avoiding overproduction and exploitation.\n5. Exchange – Storage\n• Fair exchange of goods and services with mutual benefit, and storing for future needs.\nConclusion\n• When all five dimensions work together on the base of values, a harmonious society emerges.",
+    "markingScheme": [
+      "2M: Education – Right living",
+      "2M: Health – Self-regulation",
+      "2M: Justice – Preservation",
+      "2M: Production – Work",
+      "1M: Exchange – Storage",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u4_q01",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.1",
+    "topicTitle": "Harmony in the Nature",
+    "questionType": "MCQ",
+    "prompt": "Nature is a collection of —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Only living things",
+      "Units that are in all-pervasive space, interacting and mutually fulfilling",
+      "Only the Earth",
+      "Only human beings"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Units that are in all-pervasive space, interacting and mutually fulfilling",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q02",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.1",
+    "topicTitle": "Harmony in the Nature",
+    "questionType": "MCQ",
+    "prompt": "The four orders of nature are —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Air, water, fire, earth",
+      "Material, bio, animal and human order",
+      "Plants, animals, humans, machines",
+      "Solid, liquid, gas, plasma"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Material, bio, animal and human order",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q03",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.1",
+    "topicTitle": "Harmony in the Nature",
+    "questionType": "MCQ",
+    "prompt": "Which of the following is the physical (material) order?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Soil, water, air, stones",
+      "Plants and trees",
+      "Cattle and birds",
+      "Human beings"
+    ],
+    "correctOptionIndex": 0,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (a): Soil, water, air, stones",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q04",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.1",
+    "topicTitle": "Harmony in the Nature",
+    "questionType": "MCQ",
+    "prompt": "Recyclability in nature means —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Reuse of plastic",
+      "Constant cycling of matter so that it is neither lost nor depleted",
+      "Waste disposal",
+      "Mining of resources"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Constant cycling of matter so that it is neither lost nor depleted",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q05",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.1",
+    "topicTitle": "Harmony in the Nature",
+    "questionType": "MCQ",
+    "prompt": "Self-regulation in nature means —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Control by humans",
+      "Each unit and order regulating itself in a balanced way",
+      "Government rules",
+      "Random processes"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Each unit and order regulating itself in a balanced way",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q06",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.1",
+    "topicTitle": "Harmony in the Nature",
+    "questionType": "MCQ",
+    "prompt": "Global warming and pollution are mainly caused by —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Natural disorder",
+      "Human violation of the harmony of nature",
+      "Sunlight",
+      "Rainfall"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Human violation of the harmony of nature",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q07",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.1",
+    "topicTitle": "Harmony in the Nature",
+    "questionType": "MCQ",
+    "prompt": "Nature of the human order is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Only material",
+      "Knowing, assuming and recognising, acting with understanding (gyan avastha)",
+      "Only living",
+      "Only physical"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Knowing, assuming and recognising, acting with understanding (gyan avastha)",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_s01",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.1",
+    "topicTitle": "Harmony in the Nature",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What is meant by harmony in nature? Explain recyclability and self-regulation.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Harmony in nature – all units of nature are interconnected and mutually fulfilling, each performing its role in the larger whole.\n• Recyclability: matter and energy in nature are continuously recycled – e.g. water cycle, carbon cycle, the food chain – nothing is permanently wasted or exhausted.\n• Self-regulation: every order maintains its balance and quantity automatically, e.g. the population of animals and plants is naturally regulated.\n• Human beings violate this by over-exploitation, pollution and non-recyclable waste, leading to ecological imbalance.",
+    "markingScheme": [
+      "2M: Harmony in nature",
+      "2M: Recyclability",
+      "1M: Self-regulation"
+    ]
+  },
+  {
+    "id": "uhv_u4_s02",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.1",
+    "topicTitle": "Harmony in the Nature",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the four orders of nature.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "[Order | Examples | Nature]\n• Material (Padartha avastha) | Soil, water, air, minerals, stars | Exists, interacts, transforms – no life\n• Bio (Pran avastha) | Plants, trees, bacteria | Grows, reproduces, has life-activity\n• Animal (Jeev avastha) | Birds, cattle, fish | Has life + bodily desires; lives as per instinct (species)\n• Human (Gyan avastha) | Human beings | Has life, body, imagination and understanding",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u4_s03",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.1",
+    "topicTitle": "Harmony in the Nature",
+    "questionType": "SUBJECTIVE",
+    "prompt": "How is the present human behaviour affecting the harmony in nature?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Over-exploitation of natural resources – mining, deforestation, fishing.\n• Pollution – air, water, soil – due to industries and plastic.\n• Global warming and climate change – disturbed climate cycles.\n• Loss of biodiversity – extinction of animal and plant species.\n• Cause: lack of right understanding and assumption that physical facility alone gives happiness.",
+    "markingScheme": [
+      "1M: Over-exploitation of natural resources",
+      "1M: Pollution",
+      "1M: Global warming and climate change",
+      "1M: Loss of biodiversity",
+      "1M: Cause"
+    ]
+  },
+  {
+    "id": "uhv_u4_l01",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.1",
+    "topicTitle": "Harmony in the Nature",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the harmony in nature – the four orders of nature, their interconnectedness, recyclability and self-regulation. How is human behaviour disturbing it?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 12,
+    "modelAnswer": "1. Introduction\n• Nature is the collection of units in the all-pervasive space. Everything in it is interconnected and mutually fulfilling.\n2. Four orders\n[Order | Examples | Key feature]\n• Material | Soil, water, air | Transformation, no life\n• Bio | Plants, trees | Growth + reproduction\n• Animal | Birds, cattle | Life + desires, instinct\n• Human | Humans | Understanding + imagination\n3. Interconnectedness and mutual fulfilment\n• Soil and water support plants; plants provide food and oxygen to animals and humans; animals provide manure and help seed spread; humans should protect and enrich all.\n• Each order depends on and supports the others – no order can exist in isolation.\n4. Recyclability and self-regulation\n• Matter and energy cycle continuously – water cycle, carbon cycle, food web.\n• Each order regulates itself – balance of population, quantity and quality.\n5. Disturbance by humans\n• Exploitation, pollution, deforestation, non-biodegradable waste, climate change.\n• Humans fail to play their role of enriching and protecting other orders.\n6. Solution\n• Develop right understanding about nature and our role in it.\n• Use recyclable and eco-friendly technology; reduce consumption; take only the needed facility.\nConclusion\n• Humans must live in harmony with nature – enrich, protect and use only as needed.",
+    "markingScheme": [
+      "3M: Introduction",
+      "2M: Four orders",
+      "2M: Interconnectedness and mutual fulfilment",
+      "2M: Recyclability and self-regulation",
+      "2M: Disturbance by humans",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u4_q08",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.2",
+    "topicTitle": "Interconnectedness and Mutual Fulfilment among the Four Orders of Nature",
+    "questionType": "MCQ",
+    "prompt": "The role of the human order towards other orders is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "To exploit",
+      "To enrich and protect them (mutual fulfilment)",
+      "To ignore",
+      "To dominate"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): To enrich and protect them (mutual fulfilment)",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q09",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.2",
+    "topicTitle": "Interconnectedness and Mutual Fulfilment among the Four Orders of Nature",
+    "questionType": "MCQ",
+    "prompt": "Mutual fulfilment means —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Each unit contributes to and is supported by the others",
+      "Competition among units",
+      "Independence of each unit",
+      "Dominance of one unit"
+    ],
+    "correctOptionIndex": 0,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (a): Each unit contributes to and is supported by the others",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q10",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.2",
+    "topicTitle": "Interconnectedness and Mutual Fulfilment among the Four Orders of Nature",
+    "questionType": "MCQ",
+    "prompt": "Which of these shows mutual fulfilment?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Trees providing oxygen and humans exhaling CO2 for them",
+      "A factory emitting smoke",
+      "Plastic in the ocean",
+      "Sand mining"
+    ],
+    "correctOptionIndex": 0,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (a): Trees providing oxygen and humans exhaling CO2 for them",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q11",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.2",
+    "topicTitle": "Interconnectedness and Mutual Fulfilment among the Four Orders of Nature",
+    "questionType": "MCQ",
+    "prompt": "The \"food chain\" is an example of —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Interconnectedness",
+      "Exploitation",
+      "Human intervention",
+      "Random events"
+    ],
+    "correctOptionIndex": 0,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (a): Interconnectedness",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q12",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.2",
+    "topicTitle": "Interconnectedness and Mutual Fulfilment among the Four Orders of Nature",
+    "questionType": "MCQ",
+    "prompt": "Humans are the only order that has —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Bodies",
+      "Knowing and understanding (the capacity for right understanding)",
+      "Life",
+      "Matter"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Knowing and understanding (the capacity for right understanding)",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q13",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.2",
+    "topicTitle": "Interconnectedness and Mutual Fulfilment among the Four Orders of Nature",
+    "questionType": "MCQ",
+    "prompt": "Ensuring that nature remains in balance is the responsibility of —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Only plants",
+      "Humans – because of their understanding",
+      "Only animals",
+      "Space"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Humans – because of their understanding",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_s04",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.2",
+    "topicTitle": "Interconnectedness and Mutual Fulfilment among the Four Orders of Nature",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the interconnectedness and mutual fulfilment among the four orders of nature.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Material order provides the base (soil, water, air) for the bio order.\n• Bio order (plants) gives oxygen, food, medicine to the animal and human orders.\n• Animal order supports the bio order (seed dispersal, manure) and provides to humans.\n• Human order should enrich and protect all other orders with understanding.\n• Every order contributes to and depends on others – this is mutual fulfilment.",
+    "markingScheme": [
+      "5M: Every order contributes to and depends on others"
+    ]
+  },
+  {
+    "id": "uhv_u4_s05",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.2",
+    "topicTitle": "Interconnectedness and Mutual Fulfilment among the Four Orders of Nature",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What is the role of human beings in the harmony of nature?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Humans are the only order with understanding and the capacity to do right.\n• Their role is to enrich the bio order (plant trees), protect the animal order (care for animals), and use the material order wisely.\n• Understand the needs of other orders and make sure they are fulfilled.\n• Instead, humans currently exploit and pollute – this is a violation of their role.",
+    "markingScheme": [
+      "5M: Instead, humans currently exploit and pollute"
+    ]
+  },
+  {
+    "id": "uhv_u4_s06",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.2",
+    "topicTitle": "Interconnectedness and Mutual Fulfilment among the Four Orders of Nature",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain with examples how the four orders are mutually fulfilling.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Soil + water (material) → grow plants (bio).\n• Plants → oxygen, food for animals and humans.\n• Animals → manure and seed spread to plants and soil.\n• Humans → plant, protect, preserve and nurture all.",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u4_l02",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.2",
+    "topicTitle": "Interconnectedness and Mutual Fulfilment among the Four Orders of Nature",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the role of human beings in ensuring mutual fulfilment among the four orders of nature. What are the consequences when this role is not fulfilled?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 10,
+    "modelAnswer": "1. Four orders and their relation\n• The orders – material, bio, animal, human – are mutually dependent.\n2. Mutual fulfilment\n• Material → bio → animal → human – each supports the next.\n• Humans, with understanding, can give back to all.\n3. The role of humans\n• Enrich the bio order – plant trees and nurture crops.\n• Protect the animal order – care for animals, protect species.\n• Use the material order wisely – extract only as needed, recycle.\n4. Consequences of not fulfilling this role\n• Pollution, climate change, depletion of resources.\n• Extinction of species, loss of fertile soil, scarcity of water.\n• Human suffering – disease, disasters, conflicts over resources.\n5. Way forward\n• Right understanding of nature and our role.\n• Sustainable development, renewable energy, recycling, afforestation.\nConclusion\n• Only by playing our role of mutual fulfilment can we ensure a sustainable and happy world.",
+    "markingScheme": [
+      "2M: Four orders and their relation",
+      "2M: Mutual fulfilment",
+      "2M: The role of humans",
+      "2M: Consequences of not fulfilling this role",
+      "1M: Way forward",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u4_q14",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.3",
+    "topicTitle": "Existence as Co-existence of Mutually Interacting Units in All-Pervasive Space",
+    "questionType": "MCQ",
+    "prompt": "Existence is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Only matter",
+      "Co-existence of mutually interacting units in all-pervasive space",
+      "Only space",
+      "Only living beings"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Co-existence of mutually interacting units in all-pervasive space",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q15",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.3",
+    "topicTitle": "Existence as Co-existence of Mutually Interacting Units in All-Pervasive Space",
+    "questionType": "MCQ",
+    "prompt": "Space is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Limited",
+      "All-pervasive (vyapak) – the unit in which everything exists",
+      "A solid material",
+      "Absent in some places"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): All-pervasive (vyapak) – the unit in which everything exists",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q16",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.3",
+    "topicTitle": "Existence as Co-existence of Mutually Interacting Units in All-Pervasive Space",
+    "questionType": "MCQ",
+    "prompt": "Units in existence are —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Only material",
+      "Space and the four orders – material, bio, animal, human",
+      "Only humans",
+      "Only stars"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Space and the four orders – material, bio, animal, human",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q17",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.3",
+    "topicTitle": "Existence as Co-existence of Mutually Interacting Units in All-Pervasive Space",
+    "questionType": "MCQ",
+    "prompt": "Sentient units in existence include —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Material order",
+      "Self (jeevan) of animal and human",
+      "Water",
+      "Soil"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Self (jeevan) of animal and human",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q18",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.3",
+    "topicTitle": "Existence as Co-existence of Mutually Interacting Units in All-Pervasive Space",
+    "questionType": "MCQ",
+    "prompt": "Existence is characterised as —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Temporary",
+      "Eternal / permanent and co-existent",
+      "Random",
+      "Disorganised"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Eternal / permanent and co-existent",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q19",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.3",
+    "topicTitle": "Existence as Co-existence of Mutually Interacting Units in All-Pervasive Space",
+    "questionType": "MCQ",
+    "prompt": "Co-existence in existence is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Separation of units",
+      "Units existing together in space and interacting",
+      "Dominance of one",
+      "Only mutual competition"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Units existing together in space and interacting",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_s07",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.3",
+    "topicTitle": "Existence as Co-existence of Mutually Interacting Units in All-Pervasive Space",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain existence as co-existence.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Existence is the totality of everything that is – matter, life, humans and space.\n• It is co-existence – all units exist together in space and interact with each other.\n• Units are of two types: sentient (jada/chetana) – the Self (jeevan) – and insentient (material).\n• Existence is eternal and harmonious; disharmony appears only when humans act against it.",
+    "markingScheme": [
+      "2M: Existence is the totality of everything that is",
+      "2M: It is co-existence",
+      "1M: Units are of two types"
+    ]
+  },
+  {
+    "id": "uhv_u4_s08",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.3",
+    "topicTitle": "Existence as Co-existence of Mutually Interacting Units in All-Pervasive Space",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What is all-pervasive space? Explain its nature.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Space is the unlimited, all-pervasive (vyapak) unit in which every unit is placed.\n• It is the basis of existence; all units are immersed in it.\n• It enables interaction and co-existence.\n• It is unlimited and immeasurable; units are surrounded by and immersed in it, never separate from it.",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u4_s09",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.3",
+    "topicTitle": "Existence as Co-existence of Mutually Interacting Units in All-Pervasive Space",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Differentiate between units in space (material and sentient).",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "[Basis | Material units | Sentient units]\n• Examples | Atoms, molecules, matter | Self (jeevan) in humans and animals\n• Nature | Exist, transform, can be measured | Have consciousness, activity, desire\n• Related to | Body, nature | Understanding and happiness",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u4_l03",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.3",
+    "topicTitle": "Existence as Co-existence of Mutually Interacting Units in All-Pervasive Space",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain \"existence as co-existence of mutually interacting units in all-pervasive space\". Discuss the units of existence and their relationship.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 12,
+    "modelAnswer": "1. Existence\n• The totality of what is – matter, life, human beings and the space in which they exist.\n2. All-pervasive space\n• Unlimited, immeasurable, present everywhere; the base of all units.\n3. Units in existence\n• Material order (physical, chemical), bio order (plants), animal order, human order.\n• Sentient units – the Self in animal and human; insentient units – matter.\n4. Interaction\n• Units influence and interact with each other – e.g. sunlight with plants, humans with society.\n5. Co-existence\n• All units exist together in harmony, each with its role; no unit can exist in isolation.\n6. Implication for humans\n• Since humans are part of existence, my happiness depends on harmony with the rest.\n• We must understand our relation with the whole and act accordingly.\nConclusion\n• Existence is co-existence; harmony is natural and permanent, and humans must realise and live in it.",
+    "markingScheme": [
+      "3M: Existence",
+      "2M: All-pervasive space",
+      "2M: Units in existence",
+      "2M: Interaction",
+      "2M: Co-existence",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u4_q20",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.4",
+    "topicTitle": "Holistic Perception of Harmony at All Levels of Existence",
+    "questionType": "MCQ",
+    "prompt": "Holistic perception of harmony means —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Seeing harmony only in the family",
+      "Understanding and living harmony at all four levels – self, family, society, nature",
+      "Seeing harmony only in nature",
+      "Ignoring conflict"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Understanding and living harmony at all four levels – self, family, society, nature",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q21",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.4",
+    "topicTitle": "Holistic Perception of Harmony at All Levels of Existence",
+    "questionType": "MCQ",
+    "prompt": "The four levels of harmony are —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Body, mind, spirit, soul",
+      "Individual, family, society, nature/existence",
+      "Home, school, college, job",
+      "Village, town, city, country"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Individual, family, society, nature/existence",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q22",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.4",
+    "topicTitle": "Holistic Perception of Harmony at All Levels of Existence",
+    "questionType": "MCQ",
+    "prompt": "Harmony in the Self is called —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Samadhan",
+      "Self-regulation / harmony within",
+      "Society",
+      "Co-existence"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Self-regulation / harmony within",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q23",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.4",
+    "topicTitle": "Holistic Perception of Harmony at All Levels of Existence",
+    "questionType": "MCQ",
+    "prompt": "Holistic understanding results in —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Conflicts",
+      "Natural acceptance of right living, values and ethical conduct",
+      "Competition",
+      "Isolation"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Natural acceptance of right living, values and ethical conduct",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_q24",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.4",
+    "topicTitle": "Holistic Perception of Harmony at All Levels of Existence",
+    "questionType": "MCQ",
+    "prompt": "Which of these is the final level of harmony?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Harmony in family",
+      "Harmony in existence as a whole (co-existence)",
+      "Harmony in the Body",
+      "Harmony in organisation"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Harmony in existence as a whole (co-existence)",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u4_s10",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.4",
+    "topicTitle": "Holistic Perception of Harmony at All Levels of Existence",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the four levels of harmony.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "[Level | Meaning | Basis]\n• Individual (Self) | Harmony in myself and with my Body | Understanding, sanyam, swasthya\n• Family | Mutual happiness and prosperity in family | Trust, respect and other values\n• Society | Undivided society, fearlessness | Universal human values\n• Nature / existence | Mutual fulfilment, co-existence | Understanding the four orders",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u4_s11",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.4",
+    "topicTitle": "Holistic Perception of Harmony at All Levels of Existence",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What do you understand by holistic perception of harmony?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Holistic = seeing the whole – not only parts; harmony at all levels.\n• Understanding that I, my family, society and nature are all interconnected.\n• Leads to right living – with values, responsibility and balance.\n• Ensures sustainable happiness and removal of divisions and conflicts.",
+    "markingScheme": [
+      "3M: Holistic = seeing the whole",
+      "2M: Leads to right living"
+    ]
+  },
+  {
+    "id": "uhv_u4_s12",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.4",
+    "topicTitle": "Holistic Perception of Harmony at All Levels of Existence",
+    "questionType": "SUBJECTIVE",
+    "prompt": "How does the holistic perception help in professional life?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Enables technology and production that is eco-friendly and human-friendly.\n• Encourages teamwork and trust in organisations.\n• Leads to ethical decisions – considering effects on society and nature.\n• Supports sustainable development.",
+    "markingScheme": [
+      "5M: Leads to ethical decisions"
+    ]
+  },
+  {
+    "id": "uhv_u4_l04",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_4",
+    "unitTitle": "Unit 4.0: Harmony in Nature and Existence",
+    "topicCode": "4.4",
+    "topicTitle": "Holistic Perception of Harmony at All Levels of Existence",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the holistic perception of harmony at all levels of existence – from the individual to nature – and its implications for human conduct and profession.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 14,
+    "modelAnswer": "1. Introduction\n• The universe is one whole; every part is connected. Holistic perception = seeing and living in harmony with the whole.\n2. The four levels of harmony\n[Level | Description | Basis]\n• Individual | Harmony in Self and between Self & Body | Right understanding, sanyam, swasthya\n• Family | Mutual happiness & prosperity | Values – trust, respect\n• Society | Undivided society, universal order | Fearlessness, justice\n• Nature / existence | Mutual fulfilment, co-existence | Role of the human order\n3. Holistic understanding\n• Understanding that harmony at one level supports the next and disharmony anywhere affects everything.\n4. Implications for conduct\n• Right living – values in thought, behaviour and work.\n• Responsible use of resources.\n• Helping all around me be happy and prosperous.\n5. Implications for profession\n• Design technology that serves humans and nature (eco-friendly, sustainable).\n• Ensure honesty, quality and social responsibility in work.\nConclusion\n• A holistic perception turns knowledge into wisdom – the basis of a harmonious human order.",
+    "markingScheme": [
+      "3M: Introduction",
+      "3M: The four levels of harmony",
+      "3M: Holistic understanding",
+      "2M: Implications for conduct",
+      "2M: Implications for profession",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u5_q01",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.1",
+    "topicTitle": "Natural Acceptance of Human Values",
+    "questionType": "MCQ",
+    "prompt": "Natural acceptance of human values means —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Values accepted due to rules",
+      "Values that are universally and naturally acceptable to every human being",
+      "Values learnt from religion only",
+      "Values that vary by culture"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Values that are universally and naturally acceptable to every human being",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q02",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.1",
+    "topicTitle": "Natural Acceptance of Human Values",
+    "questionType": "MCQ",
+    "prompt": "Which of these is a natural acceptance of every human being?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Cheating others",
+      "Trust, respect, honesty, justice",
+      "Hatred",
+      "Selfishness"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Trust, respect, honesty, justice",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q03",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.1",
+    "topicTitle": "Natural Acceptance of Human Values",
+    "questionType": "MCQ",
+    "prompt": "Human values are —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Culture-specific",
+      "Universal and unchanging",
+      "Time-bound",
+      "Forced by law"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Universal and unchanging",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q04",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.1",
+    "topicTitle": "Natural Acceptance of Human Values",
+    "questionType": "MCQ",
+    "prompt": "A value which is not naturally acceptable to us is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Honesty",
+      "Cheating, violence",
+      "Respect",
+      "Care"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Cheating, violence",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q05",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.1",
+    "topicTitle": "Natural Acceptance of Human Values",
+    "questionType": "MCQ",
+    "prompt": "Natural acceptance can be understood by —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Self-exploration",
+      "Memorising rules",
+      "Competition",
+      "Imitation"
+    ],
+    "correctOptionIndex": 0,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (a): Self-exploration",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_s01",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.1",
+    "topicTitle": "Natural Acceptance of Human Values",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What do you mean by natural acceptance of human values? Give examples.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Values like trust, respect, affection, care, honesty, justice are naturally acceptable to every human being.\n• We do not like to be cheated, insulted or hurt – so naturally we should not do the same to others.\n• They are universal – the same for all humans, in all places and all times.\n• Hence they form the basis for ethics and a universal human order.",
+    "markingScheme": [
+      "3M: We do not like to be cheated, insulted or hurt",
+      "2M: They are universal"
+    ]
+  },
+  {
+    "id": "uhv_u5_s02",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.1",
+    "topicTitle": "Natural Acceptance of Human Values",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Why are human values universal?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• They arise from the Self, which is the same in all human beings.\n• Every human being wants happiness and prosperity – so they accept the values that ensure it.\n• They are verifiable by self-exploration, not forced by authority.\n• They are independent of religion, caste, nation, etc.",
+    "markingScheme": [
+      "5M: Every human being wants happiness and prosperity"
+    ]
+  },
+  {
+    "id": "uhv_u5_s03",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.1",
+    "topicTitle": "Natural Acceptance of Human Values",
+    "questionType": "SUBJECTIVE",
+    "prompt": "How can a professional use natural acceptance in decision making?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Ask: \"Would I like it if someone did this to me?\"\n• Choose actions that give mutual happiness and prosperity.\n• Avoid actions that cause harm to society or nature.\n• This makes decisions consistent and defensible.",
+    "markingScheme": [
+      "5M: Ask"
+    ]
+  },
+  {
+    "id": "uhv_u5_l01",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.1",
+    "topicTitle": "Natural Acceptance of Human Values",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the natural acceptance of human values and discuss why they should be the basis of professional ethics.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 10,
+    "modelAnswer": "1. Natural acceptance\n• Inner acceptance, same in all humans, of certain values – trust, respect, care, justice, honesty.\n2. Characteristics\n• Universal (all humans), continuous (all times), natural (no external pressure), verifiable (by self-exploration).\n3. Why it is the basis for ethics\n• Ethics based on law or fear can be circumvented; ethics based on natural acceptance is self-driven.\n• It ensures consistency – the same standard in family, workplace and society.\n• It leads to mutual happiness and removes conflicts of interest.\n4. Application in profession\n• An engineer who knows that cheating and unsafe design are not naturally acceptable avoids them even without supervision.\n• Honesty in reporting, quality, safety and sustainability become natural, not forced.\nConclusion\n• Human values, being naturally acceptable, form the most reliable foundation for professional ethics.",
+    "markingScheme": [
+      "3M: Natural acceptance",
+      "2M: Characteristics",
+      "2M: Why it is the basis for ethics",
+      "2M: Application in profession",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u5_q06",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.2",
+    "topicTitle": "Definitiveness of Ethical Human Conduct",
+    "questionType": "MCQ",
+    "prompt": "Ethical human conduct is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Following orders",
+      "Behaviour based on values, competence and universal human order",
+      "Pursuit of profit only",
+      "Imitation of others"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Behaviour based on values, competence and universal human order",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q07",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.2",
+    "topicTitle": "Definitiveness of Ethical Human Conduct",
+    "questionType": "MCQ",
+    "prompt": "Definitiveness of ethical conduct means —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "It changes with every situation",
+      "It is clear, universal and consistent",
+      "It is optional",
+      "It is relative"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): It is clear, universal and consistent",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q08",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.2",
+    "topicTitle": "Definitiveness of Ethical Human Conduct",
+    "questionType": "MCQ",
+    "prompt": "Ethics is based on —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Fear of punishment",
+      "Values (right understanding and universal human values)",
+      "Profit",
+      "Tradition only"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Values (right understanding and universal human values)",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q09",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.2",
+    "topicTitle": "Definitiveness of Ethical Human Conduct",
+    "questionType": "MCQ",
+    "prompt": "The three components of ethical human conduct are —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Values, policies, character",
+      "Values, skills and ethics (or competence)",
+      "Wealth, power, position",
+      "Law, order, punishment"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Values, skills and ethics (or competence)",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q10",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.2",
+    "topicTitle": "Definitiveness of Ethical Human Conduct",
+    "questionType": "MCQ",
+    "prompt": "Which is an example of unethical professional conduct?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Honest reporting",
+      "Using inferior material to save cost, endangering users",
+      "Following safety norms",
+      "Respecting clients"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Using inferior material to save cost, endangering users",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_s04",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.2",
+    "topicTitle": "Definitiveness of Ethical Human Conduct",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What is ethical human conduct? Why is it definitive?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Ethical human conduct = living with universal human values in thought, behaviour and work at all levels.\n• Definitive because values are natural, universal and consistent – they do not vary with person, place or time.\n• This leads to clarity and certainty in decisions – what is right and what is wrong.\n• It results in mutual happiness and prosperity and universal human order.",
+    "markingScheme": [
+      "5M: This leads to clarity and certainty in decisions"
+    ]
+  },
+  {
+    "id": "uhv_u5_s05",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.2",
+    "topicTitle": "Definitiveness of Ethical Human Conduct",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the three components of ethical human conduct.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Values – correct understanding of human values (trust, respect…).\n• Skills / competence – the ability to put values into practice.\n• Ethical behaviour – living and working on the basis of values and skills in all dimensions.\n• All three must be together; without values, skills can cause harm.",
+    "markingScheme": [
+      "2M: Values",
+      "2M: Skills / competence",
+      "1M: Ethical behaviour"
+    ]
+  },
+  {
+    "id": "uhv_u5_s06",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.2",
+    "topicTitle": "Definitiveness of Ethical Human Conduct",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Differentiate between ethical and unethical conduct.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "[Basis | Ethical conduct | Unethical conduct]\n• Based on | Right understanding, values | Selfish gain, ignorance\n• Outcome | Mutual happiness, trust | Conflict, harm, distrust\n• Example | Honest reporting, safe design | Bribery, shoddy material",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u5_l02",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.2",
+    "topicTitle": "Definitiveness of Ethical Human Conduct",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the definitiveness of ethical human conduct and how it is derived from right understanding and universal human values.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 12,
+    "modelAnswer": "1. Meaning\n• Ethical human conduct = doing what is right with respect to all human beings and nature, on the basis of right understanding.\n2. Definitiveness\n• Universality – same for all; naturalness – no pressure; consistency – no confusion.\n3. Derivation from right understanding\n• Right understanding of Self + Body, relationships, nature → right values → ethical conduct.\n4. Contrast with present ethics\n• Present: ethics are rule or fear based, vary with country and culture; people look for loopholes.\n• Value-based ethics are internal, self-driven and ensure mutual happiness.\n5. Examples\n• Engineer: safe design without compromise.\n• Manager: fair treatment of employees and customers.\n• Doctor: honest and compassionate treatment.\n6. Benefits\n• Trust in organisation and society; sustainability; reduction in corruption and exploitation.\nConclusion\n• Since ethical conduct is definite and universal, it can guide professionals in every situation with confidence.",
+    "markingScheme": [
+      "3M: Meaning",
+      "2M: Definitiveness",
+      "2M: Derivation from right understanding",
+      "2M: Contrast with present ethics",
+      "2M: Examples",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u5_q11",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.3",
+    "topicTitle": "Basis for Humanistic Education, Humanistic Constitution and Humanistic Universal Order",
+    "questionType": "MCQ",
+    "prompt": "Humanistic education aims at —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Only job skills",
+      "Developing right understanding, values and skills together",
+      "Rote memorisation",
+      "Examination results only"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Developing right understanding, values and skills together",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q12",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.3",
+    "topicTitle": "Basis for Humanistic Education, Humanistic Constitution and Humanistic Universal Order",
+    "questionType": "MCQ",
+    "prompt": "The present education system largely emphasises —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Values",
+      "Skills and earning",
+      "Harmony",
+      "Self-exploration"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Skills and earning",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q13",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.3",
+    "topicTitle": "Basis for Humanistic Education, Humanistic Constitution and Humanistic Universal Order",
+    "questionType": "MCQ",
+    "prompt": "A humanistic constitution is based on —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Power of the strong",
+      "Universal human values and the comprehensive human goal",
+      "Religion only",
+      "Wealth"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Universal human values and the comprehensive human goal",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q14",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.3",
+    "topicTitle": "Basis for Humanistic Education, Humanistic Constitution and Humanistic Universal Order",
+    "questionType": "MCQ",
+    "prompt": "Humanistic universal order consists of —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Wars and conflicts",
+      "Human education, human constitution and human order",
+      "Only government",
+      "Only markets"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Human education, human constitution and human order",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q15",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.3",
+    "topicTitle": "Basis for Humanistic Education, Humanistic Constitution and Humanistic Universal Order",
+    "questionType": "MCQ",
+    "prompt": "The basis of humanistic education, constitution and order is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Competition",
+      "Right understanding and human values",
+      "Wealth",
+      "Technology"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Right understanding and human values",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_s07",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.3",
+    "topicTitle": "Basis for Humanistic Education, Humanistic Constitution and Humanistic Universal Order",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What is humanistic education? How is it different from the present education?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "[Aspect | Present education | Humanistic education]\n• Focus | Skills, job, earning | Values + skills + right understanding\n• Outcome | Competence without wisdom | Competent and value-based human\n• Aim | Individual success | Mutual happiness & prosperity (all levels)\n• Process | Memorisation, competition | Self-exploration, understanding, living",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u5_s08",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.3",
+    "topicTitle": "Basis for Humanistic Education, Humanistic Constitution and Humanistic Universal Order",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the humanistic constitution.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• A constitution/system based on universal human values and the comprehensive human goal – resolution, prosperity, fearlessness, co-existence.\n• It ensures justice and rights for all, from family to world level.\n• Governed by right understanding instead of power or interest.\n• It guides education, health, justice, production and exchange.",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u5_s09",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.3",
+    "topicTitle": "Basis for Humanistic Education, Humanistic Constitution and Humanistic Universal Order",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the humanistic universal order.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• The universal human order consists of human education, human constitution, human conduct and human order in society.\n• It is a self-organised, undivided society with fearlessness.\n• Based on values, understanding and ethical conduct.\n• It leads to harmony from family to world family.",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u5_l03",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.3",
+    "topicTitle": "Basis for Humanistic Education, Humanistic Constitution and Humanistic Universal Order",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the basis for humanistic education, humanistic constitution and humanistic universal order.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 12,
+    "modelAnswer": "1. Introduction\n• A harmonious society needs three connected systems: human education, human constitution and human order.\n2. Humanistic education\n• Aims at right understanding, values and skills in every human being, from childhood.\n• Includes self-exploration, sanyam, harmony with nature.\n• Leads to competence to live in harmony.\n3. Humanistic constitution\n• Framework of rules, rights and duties based on universal human values.\n• Aims at comprehensive human goal.\n• Ensures justice, security and prosperity for all.\n4. Humanistic universal order\n• An undivided society and universal order: family → world family.\n• Five dimensions: education, health, justice, production, exchange.\n5. Basis\n• All three are built on right understanding and natural acceptance of human values.\n6. Role of professionals\n• Professionals contribute through value-based work, sustainable technology and ethical decisions.\nConclusion\n• Only when education, constitution and order are humanistic can universal human order be established.",
+    "markingScheme": [
+      "3M: Introduction",
+      "2M: Humanistic education",
+      "2M: Humanistic constitution",
+      "2M: Humanistic universal order",
+      "2M: Basis",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u5_q16",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.4",
+    "topicTitle": "Competence in Professional Ethics",
+    "questionType": "MCQ",
+    "prompt": "Professional ethics means —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Maximising profit by any means",
+      "Ethical human conduct in professional work",
+      "Following company orders only",
+      "Avoiding competition"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Ethical human conduct in professional work",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q17",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.4",
+    "topicTitle": "Competence in Professional Ethics",
+    "questionType": "MCQ",
+    "prompt": "Which is NOT a part of competence in professional ethics?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Value-based life",
+      "Ability to utilise professional competence for augmenting universal human order",
+      "Ability to identify the scope and characteristics of people-friendly and eco-friendly production systems",
+      "Ability to manipulate for gain"
+    ],
+    "correctOptionIndex": 3,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (d): Ability to manipulate for gain",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q18",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.4",
+    "topicTitle": "Competence in Professional Ethics",
+    "questionType": "MCQ",
+    "prompt": "People-friendly and eco-friendly production systems are —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Harmful to nature",
+      "Sustainable and beneficial to humans and nature",
+      "Unrelated to ethics",
+      "Only for rich countries"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Sustainable and beneficial to humans and nature",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q19",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.4",
+    "topicTitle": "Competence in Professional Ethics",
+    "questionType": "MCQ",
+    "prompt": "Professional competence should be used for —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Personal profit only",
+      "Augmenting the universal human order",
+      "Misleading customers",
+      "Hiding defects"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Augmenting the universal human order",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q20",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.4",
+    "topicTitle": "Competence in Professional Ethics",
+    "questionType": "MCQ",
+    "prompt": "Appropriate technology is —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Highly complex technology",
+      "Technology suited to human needs, nature and local conditions",
+      "Imported technology only",
+      "Expensive technology"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Technology suited to human needs, nature and local conditions",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_s10",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.4",
+    "topicTitle": "Competence in Professional Ethics",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What is competence in professional ethics? List its main elements.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Ability to utilise professional competence for augmenting universal human order.\n• Ability to identify the scope and characteristics of people-friendly and eco-friendly production systems.\n• Ability to identify and develop appropriate technologies and management patterns for the above production systems.\n• Value-based life and profession – both are in harmony.\n• Result: sustainable, harmonious professional practice.",
+    "markingScheme": [
+      "3M: Value-based life and profession",
+      "2M: Result"
+    ]
+  },
+  {
+    "id": "uhv_u5_s11",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.4",
+    "topicTitle": "Competence in Professional Ethics",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain how engineers can practise professional ethics in daily work.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Maintain honesty and transparency in reports and designs.\n• Ensure safety and quality; never compromise for profit.\n• Consider environmental impact – recycle, conserve energy.\n• Respect colleagues, clients and society – avoid discrimination.\n• Continue learning and update competence.",
+    "markingScheme": [
+      "3M: Consider environmental impact",
+      "2M: Respect colleagues, clients and society"
+    ]
+  },
+  {
+    "id": "uhv_u5_s12",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.4",
+    "topicTitle": "Competence in Professional Ethics",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What is appropriate technology?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Technology which is suitable for human needs, society and nature.\n• Cost-effective, energy-efficient, locally available, easy to maintain.\n• Eco-friendly and recyclable.\n• Supports self-reliance and sustainable development.",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u5_l04",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.4",
+    "topicTitle": "Competence in Professional Ethics",
+    "questionType": "SUBJECTIVE",
+    "prompt": "What is professional ethics? Explain the competence required in professional ethics and the role of a technical professional.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 14,
+    "modelAnswer": "1. Meaning\n• Professional ethics = ethical human conduct in professional work – based on values, right understanding and competence.\n2. Competence in professional ethics\n• Ability to utilise professional competence to augment universal human order.\n• Ability to identify the scope and characteristics of people-friendly and eco-friendly production systems.\n• Ability to identify and develop appropriate technologies and management patterns.\n3. Role of a technical professional\n• Design safe, durable and sustainable products.\n• Use resources wisely – reduce waste and energy.\n• Be honest in reporting and testing.\n• Serve society – not only the employer's profit.\n4. Case examples\n• Civil engineer: quality construction, no corruption.\n• Software engineer: data privacy and security.\n• Mechanical engineer: eco-friendly machines and low emission.\n5. Present scenario\n• Pressure of profit, competition and corruption leads to ethical violations – e.g. industrial disasters and pollution.\n6. Solution\n• Value education, ethical codes, awareness and self-driven responsibility.\nConclusion\n• Professional ethics based on human values ensures mutual prosperity and a sustainable world.",
+    "markingScheme": [
+      "3M: Meaning",
+      "3M: Competence in professional ethics",
+      "3M: Role of a technical professional",
+      "2M: Case examples",
+      "2M: Present scenario",
+      "1M: Practical example and holistic conclusion"
+    ]
+  },
+  {
+    "id": "uhv_u5_q21",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.5",
+    "topicTitle": "Strategy for Transition from the Present State to Universal Human Order",
+    "questionType": "MCQ",
+    "prompt": "The transition to the universal human order must happen at —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Only the individual level",
+      "The level of individual and the level of society",
+      "Only government",
+      "Only the world level"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): The level of individual and the level of society",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q22",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.5",
+    "topicTitle": "Strategy for Transition from the Present State to Universal Human Order",
+    "questionType": "MCQ",
+    "prompt": "At the individual level, transition begins with —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Making rules",
+      "Self-exploration and right understanding",
+      "Competition",
+      "War"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Self-exploration and right understanding",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q23",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.5",
+    "topicTitle": "Strategy for Transition from the Present State to Universal Human Order",
+    "questionType": "MCQ",
+    "prompt": "At the society level, transition requires —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Isolation",
+      "Value education, family and community participation, and humanistic systems",
+      "Power politics",
+      "Taxation"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Value education, family and community participation, and humanistic systems",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q24",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.5",
+    "topicTitle": "Strategy for Transition from the Present State to Universal Human Order",
+    "questionType": "MCQ",
+    "prompt": "Which is a step at the individual level?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "Changing the constitution",
+      "Living with values in thought, behaviour and work",
+      "Blaming others",
+      "Ignoring problems"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Living with values in thought, behaviour and work",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_q25",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.5",
+    "topicTitle": "Strategy for Transition from the Present State to Universal Human Order",
+    "questionType": "MCQ",
+    "prompt": "Transition is a —",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [
+      "One-day event",
+      "Continuous process",
+      "Imposed order",
+      "Violent process"
+    ],
+    "correctOptionIndex": 1,
+    "maxMarks": 1,
+    "modelAnswer": "Correct Option (b): Continuous process",
+    "markingScheme": [
+      "1M: Correct option selected"
+    ]
+  },
+  {
+    "id": "uhv_u5_s13",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.5",
+    "topicTitle": "Strategy for Transition from the Present State to Universal Human Order",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the strategy for transition at the level of the individual.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Start with self-exploration – verify the proposals on natural acceptance.\n• Develop right understanding and live with values (trust, respect, etc.).\n• Practise sanyam and swasthya – harmony between Self and Body.\n• Build harmony in the family and extend it to society.\n• Use professional competence to augment human order.",
+    "markingScheme": [
+      "3M: Start with self-exploration",
+      "2M: Practise sanyam and swasthya"
+    ]
+  },
+  {
+    "id": "uhv_u5_s14",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.5",
+    "topicTitle": "Strategy for Transition from the Present State to Universal Human Order",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the strategy for transition at the level of society.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Provide value education in schools and colleges.\n• Encourage family and community participation in value-based living.\n• Promote humanistic policies in governance, business and media.\n• Support sustainable and eco-friendly production and consumption.\n• Create awareness and role models to demonstrate the change.",
+    "markingScheme": [
+      "1M: Clear definition / core concept",
+      "3M: Structured explanation with key UHV points",
+      "1M: Relevant daily-life example or contrast"
+    ]
+  },
+  {
+    "id": "uhv_u5_s15",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.5",
+    "topicTitle": "Strategy for Transition from the Present State to Universal Human Order",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Why is the transition to universal human order feasible?",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 5,
+    "modelAnswer": "• Human values are naturally acceptable to everyone.\n• Every human being wants happiness and prosperity – so there is a natural motivation.\n• Starting at the individual and family level – small steps spread widely.\n• Education and technology can speed up the awareness.",
+    "markingScheme": [
+      "3M: Every human being wants happiness and prosperity",
+      "2M: Starting at the individual and family level"
+    ]
+  },
+  {
+    "id": "uhv_u5_l05",
+    "subjectId": "sub_100109",
+    "subjectTitle": "Universal Human Values",
+    "unitId": "u_100109_5",
+    "unitTitle": "Unit 5.0: Holistic Understanding & Professional Ethics",
+    "topicCode": "5.5",
+    "topicTitle": "Strategy for Transition from the Present State to Universal Human Order",
+    "questionType": "SUBJECTIVE",
+    "prompt": "Explain the strategy for transition from the present state to the universal human order at the level of the individual and the level of society.",
+    "formulaExpr": "",
+    "diagramKind": "NONE",
+    "imageUri": "",
+    "options": [],
+    "correctOptionIndex": -1,
+    "maxMarks": 14,
+    "modelAnswer": "1. Present state\n• Individual: stress and confusion. Family: distrust. Society: violence, inequality. Nature: pollution and depletion.\n2. Goal: Universal human order\n• Undivided society and universal order with resolution, prosperity, fearlessness and co-existence.\n3. Strategy at the level of the individual\n• Self-exploration and right understanding.\n• Live with values – trust and respect in family relationships.\n• Sanyam and swasthya.\n• Ethical conduct in profession.\n• Be a role model for others.\n4. Strategy at the level of society\n• Humanistic education in every institution.\n• Family and community support.\n• Humanistic constitution and policies.\n• Eco-friendly production and consumption.\n• Use media and technology for awareness.\n5. Role of professionals\n• Engineers, doctors, teachers, managers and others transform systems through ethical practice.\n6. Challenges and way ahead\n• Challenges: consumerism, ignorance, short-term profit. Way: patience, awareness and consistent practice.\nConclusion\n• The transition begins with each of us – by changing ourselves, we change the family, society and ultimately the world.",
+    "markingScheme": [
+      "3M: Present state",
+      "3M: Goal: Universal human order",
+      "3M: Strategy at the level of the individual",
+      "2M: Strategy at the level of society",
+      "2M: Role of professionals",
+      "1M: Practical example and holistic conclusion"
+    ]
+  }
+]

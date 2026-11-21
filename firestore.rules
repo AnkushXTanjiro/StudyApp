@@ -1,0 +1,337 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Global default-deny safety net
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // --- Primitive Helpers ---
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() >= 1 && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    function isValidTimestamp(ts) {
+      return ts is timestamp && ts <= request.time;
+    }
+
+    function isStringList(val, maxSize) {
+      return val is list && val.size() <= maxSize && (val.size() == 0 || val[0] is string);
+    }
+
+    function isMapList(val, maxSize) {
+      return val is list && val.size() <= maxSize && (val.size() == 0 || val[0] is map);
+    }
+
+    // --- Entity Validation Blueprints ---
+
+    function isValidUserProfile(data, expectedUid) {
+      return data.keys().hasAll([
+          'userId', 'displayName', 'streakDays', 'longestStreak', 'xp',
+          'lastStudyDate', 'unlockedBadges', 'dailyGoalTopics',
+          'reminderHour', 'reminderMinute', 'remindersEnabled',
+          'syllabusSeeded', 'createdAt', 'updatedAt'
+        ]) &&
+        data.keys().hasOnly([
+          'userId', 'displayName', 'streakDays', 'longestStreak', 'xp',
+          'lastStudyDate', 'unlockedBadges', 'dailyGoalTopics',
+          'reminderHour', 'reminderMinute', 'remindersEnabled',
+          'syllabusSeeded', 'createdAt', 'updatedAt'
+        ]) &&
+        data.userId is string && data.userId == expectedUid &&
+        data.displayName is string && data.displayName.size() >= 1 && data.displayName.size() <= 60 &&
+        data.streakDays is int && data.streakDays >= 0 && data.streakDays <= 10000 &&
+        data.longestStreak is int && data.longestStreak >= 0 && data.longestStreak <= 10000 &&
+        data.xp is int && data.xp >= 0 && data.xp <= 10000000 &&
+        data.lastStudyDate is string && data.lastStudyDate.size() <= 20 &&
+        isStringList(data.unlockedBadges, 30) &&
+        data.dailyGoalTopics is int && data.dailyGoalTopics >= 1 && data.dailyGoalTopics <= 50 &&
+        data.reminderHour is int && data.reminderHour >= 0 && data.reminderHour <= 23 &&
+        data.reminderMinute is int && data.reminderMinute >= 0 && data.reminderMinute <= 59 &&
+        data.remindersEnabled is bool &&
+        data.syllabusSeeded is bool &&
+        isValidTimestamp(data.createdAt) &&
+        isValidTimestamp(data.updatedAt);
+    }
+
+    function isValidLeaderboardEntry(data, expectedUid) {
+      return data.keys().hasAll([
+          'userId', 'displayName', 'xp', 'streakDays', 'topicsCompleted',
+          'testsCompleted', 'badgesCount', 'publicVisible', 'createdAt', 'updatedAt'
+        ]) &&
+        data.keys().hasOnly([
+          'userId', 'displayName', 'xp', 'streakDays', 'topicsCompleted',
+          'testsCompleted', 'badgesCount', 'publicVisible', 'createdAt', 'updatedAt'
+        ]) &&
+        data.userId is string && data.userId == expectedUid &&
+        data.displayName is string && data.displayName.size() >= 1 && data.displayName.size() <= 60 &&
+        data.xp is int && data.xp >= 0 && data.xp <= 10000000 &&
+        data.streakDays is int && data.streakDays >= 0 && data.streakDays <= 10000 &&
+        data.topicsCompleted is int && data.topicsCompleted >= 0 && data.topicsCompleted <= 10000 &&
+        data.testsCompleted is int && data.testsCompleted >= 0 && data.testsCompleted <= 10000 &&
+        data.badgesCount is int && data.badgesCount >= 0 && data.badgesCount <= 30 &&
+        data.publicVisible is bool &&
+        isValidTimestamp(data.createdAt) &&
+        isValidTimestamp(data.updatedAt);
+    }
+
+    function isValidSubject(data) {
+      return data.keys().hasAll([
+          'courseCode', 'title', 'credits', 'category', 'sortOrder',
+          'units', 'createdAt', 'updatedAt'
+        ]) &&
+        data.keys().hasOnly([
+          'courseCode', 'title', 'credits', 'category', 'sortOrder',
+          'units', 'createdAt', 'updatedAt'
+        ]) &&
+        data.courseCode is string && data.courseCode.size() >= 1 && data.courseCode.size() <= 30 &&
+        data.title is string && data.title.size() >= 1 && data.title.size() <= 120 &&
+        data.credits is int && data.credits >= 0 && data.credits <= 20 &&
+        data.category is string && data.category in ['THEORY', 'LAB'] &&
+        data.sortOrder is int && data.sortOrder >= 0 && data.sortOrder <= 500 &&
+        isMapList(data.units, 20) &&
+        isValidTimestamp(data.createdAt) &&
+        isValidTimestamp(data.updatedAt);
+    }
+
+    function isValidTodo(data) {
+      return data.keys().hasAll([
+          'title', 'notes', 'sourceType', 'subjectId', 'subjectTitle',
+          'unitId', 'unitTitle', 'topicId', 'priority', 'dueLabel',
+          'completed', 'createdAt', 'updatedAt'
+        ]) &&
+        data.keys().hasOnly([
+          'title', 'notes', 'sourceType', 'subjectId', 'subjectTitle',
+          'unitId', 'unitTitle', 'topicId', 'priority', 'dueLabel',
+          'completed', 'createdAt', 'updatedAt'
+        ]) &&
+        data.title is string && data.title.size() >= 1 && data.title.size() <= 200 &&
+        data.notes is string && data.notes.size() <= 500 &&
+        data.sourceType is string && data.sourceType in ['MANUAL', 'SYLLABUS', 'TIMETABLE'] &&
+        data.subjectId is string && data.subjectId.size() <= 128 &&
+        data.subjectTitle is string && data.subjectTitle.size() <= 120 &&
+        data.unitId is string && data.unitId.size() <= 128 &&
+        data.unitTitle is string && data.unitTitle.size() <= 120 &&
+        data.topicId is string && data.topicId.size() <= 128 &&
+        data.priority is string && data.priority in ['LOW', 'MEDIUM', 'HIGH'] &&
+        data.dueLabel is string && data.dueLabel.size() <= 60 &&
+        data.completed is bool &&
+        isValidTimestamp(data.createdAt) &&
+        isValidTimestamp(data.updatedAt);
+    }
+
+    function isValidTimetableSlot(data) {
+      return data.keys().hasAll([
+          'dayOfWeek', 'startTime', 'endTime', 'subjectId', 'subjectTitle',
+          'unitHint', 'room', 'slotType', 'createdAt', 'updatedAt'
+        ]) &&
+        data.keys().hasOnly([
+          'dayOfWeek', 'startTime', 'endTime', 'subjectId', 'subjectTitle',
+          'unitHint', 'room', 'slotType', 'createdAt', 'updatedAt'
+        ]) &&
+        data.dayOfWeek is int && data.dayOfWeek >= 1 && data.dayOfWeek <= 7 &&
+        data.startTime is string && data.startTime.size() >= 1 && data.startTime.size() <= 20 &&
+        data.endTime is string && data.endTime.size() >= 1 && data.endTime.size() <= 20 &&
+        data.subjectId is string && data.subjectId.size() <= 128 &&
+        data.subjectTitle is string && data.subjectTitle.size() >= 1 && data.subjectTitle.size() <= 120 &&
+        data.unitHint is string && data.unitHint.size() <= 120 &&
+        data.room is string && data.room.size() <= 60 &&
+        data.slotType is string && data.slotType in ['LECTURE', 'LAB', 'SELF_STUDY'] &&
+        isValidTimestamp(data.createdAt) &&
+        isValidTimestamp(data.updatedAt);
+    }
+
+    function isValidTestQuestion(data) {
+      return data.keys().hasAll([
+          'subjectId', 'subjectTitle', 'unitId', 'unitTitle', 'topicCode',
+          'topicTitle', 'questionType', 'prompt', 'formulaExpr', 'diagramKind',
+          'imageUri', 'options', 'correctOptionIndex', 'maxMarks', 'modelAnswer',
+          'markingScheme', 'createdAt', 'updatedAt'
+        ]) &&
+        data.keys().hasOnly([
+          'subjectId', 'subjectTitle', 'unitId', 'unitTitle', 'topicCode',
+          'topicTitle', 'questionType', 'prompt', 'formulaExpr', 'diagramKind',
+          'imageUri', 'options', 'correctOptionIndex', 'maxMarks', 'modelAnswer',
+          'markingScheme', 'createdAt', 'updatedAt'
+        ]) &&
+        data.subjectId is string && data.subjectId.size() >= 1 && data.subjectId.size() <= 128 &&
+        data.subjectTitle is string && data.subjectTitle.size() >= 1 && data.subjectTitle.size() <= 120 &&
+        data.unitId is string && data.unitId.size() >= 1 && data.unitId.size() <= 128 &&
+        data.unitTitle is string && data.unitTitle.size() >= 1 && data.unitTitle.size() <= 120 &&
+        data.topicCode is string && data.topicCode.size() <= 30 &&
+        data.topicTitle is string && data.topicTitle.size() >= 1 && data.topicTitle.size() <= 160 &&
+        data.questionType is string && data.questionType in ['MCQ', 'SUBJECTIVE'] &&
+        data.prompt is string && data.prompt.size() >= 1 && data.prompt.size() <= 2000 &&
+        data.formulaExpr is string && data.formulaExpr.size() <= 500 &&
+        data.diagramKind is string && data.diagramKind.size() <= 60 &&
+        data.imageUri is string && data.imageUri.size() <= 500 &&
+        isStringList(data.options, 6) &&
+        data.correctOptionIndex is int && data.correctOptionIndex >= -1 && data.correctOptionIndex <= 5 &&
+        data.maxMarks is int && data.maxMarks >= 1 && data.maxMarks <= 50 &&
+        data.modelAnswer is string && data.modelAnswer.size() <= 2500 &&
+        isStringList(data.markingScheme, 12) &&
+        isValidTimestamp(data.createdAt) &&
+        isValidTimestamp(data.updatedAt);
+    }
+
+    function isValidTestReport(data) {
+      return data.keys().hasAll([
+          'subjectId', 'subjectTitle', 'unitId', 'unitTitle', 'obtainedMarks',
+          'totalMarks', 'percentage', 'durationSeconds', 'totalQuestions',
+          'correctCount', 'strongTopics', 'weakTopics', 'improveTopics',
+          'questionBreakdown', 'createdAt', 'updatedAt'
+        ]) &&
+        data.keys().hasOnly([
+          'subjectId', 'subjectTitle', 'unitId', 'unitTitle', 'obtainedMarks',
+          'totalMarks', 'percentage', 'durationSeconds', 'totalQuestions',
+          'correctCount', 'strongTopics', 'weakTopics', 'improveTopics',
+          'questionBreakdown', 'createdAt', 'updatedAt'
+        ]) &&
+        data.subjectId is string && data.subjectId.size() >= 1 && data.subjectId.size() <= 128 &&
+        data.subjectTitle is string && data.subjectTitle.size() >= 1 && data.subjectTitle.size() <= 120 &&
+        data.unitId is string && data.unitId.size() >= 1 && data.unitId.size() <= 128 &&
+        data.unitTitle is string && data.unitTitle.size() >= 1 && data.unitTitle.size() <= 120 &&
+        data.obtainedMarks is number && data.obtainedMarks >= 0 && data.obtainedMarks <= 1000 &&
+        data.totalMarks is number && data.totalMarks >= 1 && data.totalMarks <= 1000 &&
+        data.percentage is number && data.percentage >= 0 && data.percentage <= 100 &&
+        data.durationSeconds is int && data.durationSeconds >= 0 && data.durationSeconds <= 86400 &&
+        data.totalQuestions is int && data.totalQuestions >= 1 && data.totalQuestions <= 200 &&
+        data.correctCount is int && data.correctCount >= 0 && data.correctCount <= 200 &&
+        isStringList(data.strongTopics, 30) &&
+        isStringList(data.weakTopics, 30) &&
+        isStringList(data.improveTopics, 30) &&
+        isMapList(data.questionBreakdown, 100) &&
+        isValidTimestamp(data.createdAt) &&
+        isValidTimestamp(data.updatedAt);
+    }
+
+    // --- Collection Rules ---
+
+    // 1. Private User Profile & User-Scoped Subcollections
+    match /users/{userId} {
+      allow get: if isOwner(userId) && isValidId(userId);
+      allow create: if isOwner(userId) && isValidId(userId) && isValidUserProfile(incoming(), userId);
+      allow update: if isOwner(userId) &&
+                       isValidId(userId) &&
+                       isValidUserProfile(incoming(), userId) &&
+                       incoming().userId == existing().userId &&
+                       incoming().createdAt == existing().createdAt &&
+                       incoming().diff(existing()).affectedKeys().hasOnly([
+                         'displayName', 'streakDays', 'longestStreak', 'xp',
+                         'lastStudyDate', 'unlockedBadges', 'dailyGoalTopics',
+                         'reminderHour', 'reminderMinute', 'remindersEnabled',
+                         'syllabusSeeded', 'updatedAt'
+                       ]);
+      allow delete: if isOwner(userId) && isValidId(userId);
+
+      // Subjects (Syllabus)
+      match /subjects/{subjectId} {
+        allow get: if isOwner(userId) && isValidId(userId) && isValidId(subjectId);
+        allow list: if isOwner(userId);
+        allow create: if isOwner(userId) && isValidId(userId) && isValidId(subjectId) && isValidSubject(incoming());
+        allow update: if isOwner(userId) &&
+                         isValidId(userId) &&
+                         isValidId(subjectId) &&
+                         isValidSubject(incoming()) &&
+                         incoming().createdAt == existing().createdAt &&
+                         incoming().diff(existing()).affectedKeys().hasOnly([
+                           'courseCode', 'title', 'credits', 'category', 'sortOrder', 'units', 'updatedAt'
+                         ]);
+        allow delete: if isOwner(userId) && isValidId(userId) && isValidId(subjectId);
+      }
+
+      // To-Do Tasks
+      match /todos/{todoId} {
+        allow get: if isOwner(userId) && isValidId(userId) && isValidId(todoId);
+        allow list: if isOwner(userId);
+        allow create: if isOwner(userId) && isValidId(userId) && isValidId(todoId) && isValidTodo(incoming());
+        allow update: if isOwner(userId) &&
+                         isValidId(userId) &&
+                         isValidId(todoId) &&
+                         isValidTodo(incoming()) &&
+                         incoming().createdAt == existing().createdAt &&
+                         incoming().diff(existing()).affectedKeys().hasOnly([
+                           'title', 'notes', 'priority', 'dueLabel', 'completed', 'updatedAt'
+                         ]);
+        allow delete: if isOwner(userId) && isValidId(userId) && isValidId(todoId);
+      }
+
+      // Weekly Timetable Slots
+      match /timetable/{slotId} {
+        allow get: if isOwner(userId) && isValidId(userId) && isValidId(slotId);
+        allow list: if isOwner(userId);
+        allow create: if isOwner(userId) && isValidId(userId) && isValidId(slotId) && isValidTimetableSlot(incoming());
+        allow update: if isOwner(userId) &&
+                         isValidId(userId) &&
+                         isValidId(slotId) &&
+                         isValidTimetableSlot(incoming()) &&
+                         incoming().createdAt == existing().createdAt &&
+                         incoming().diff(existing()).affectedKeys().hasOnly([
+                           'dayOfWeek', 'startTime', 'endTime', 'subjectId', 'subjectTitle',
+                           'unitHint', 'room', 'slotType', 'updatedAt'
+                         ]);
+        allow delete: if isOwner(userId) && isValidId(userId) && isValidId(slotId);
+      }
+
+      // Unit-wise Test Question Bank
+      match /questions/{questionId} {
+        allow get: if isOwner(userId) && isValidId(userId) && isValidId(questionId);
+        allow list: if isOwner(userId);
+        allow create: if isOwner(userId) && isValidId(userId) && isValidId(questionId) && isValidTestQuestion(incoming());
+        allow update: if isOwner(userId) &&
+                         isValidId(userId) &&
+                         isValidId(questionId) &&
+                         isValidTestQuestion(incoming()) &&
+                         incoming().createdAt == existing().createdAt &&
+                         incoming().diff(existing()).affectedKeys().hasOnly([
+                           'topicCode', 'topicTitle', 'prompt', 'formulaExpr', 'diagramKind',
+                           'imageUri', 'options', 'correctOptionIndex', 'maxMarks',
+                           'modelAnswer', 'markingScheme', 'updatedAt'
+                         ]);
+        allow delete: if isOwner(userId) && isValidId(userId) && isValidId(questionId);
+      }
+
+      // Saved Test Report Cards (append-only archive + delete)
+      match /reports/{reportId} {
+        allow get: if isOwner(userId) && isValidId(userId) && isValidId(reportId);
+        allow list: if isOwner(userId);
+        allow create: if isOwner(userId) && isValidId(userId) && isValidId(reportId) && isValidTestReport(incoming());
+        allow delete: if isOwner(userId) && isValidId(userId) && isValidId(reportId);
+      }
+    }
+
+    // 2. Public Opt-In Leaderboard (No PII; explicit resource.data check on list)
+    match /leaderboard/{userId} {
+      allow get: if isSignedIn() && isValidId(userId) && (request.auth.uid == userId || existing().publicVisible == true);
+      allow list: if isSignedIn() && existing().publicVisible == true;
+      allow create: if isOwner(userId) && isValidId(userId) && isValidLeaderboardEntry(incoming(), userId);
+      allow update: if isOwner(userId) &&
+                       isValidId(userId) &&
+                       isValidLeaderboardEntry(incoming(), userId) &&
+                       incoming().userId == existing().userId &&
+                       incoming().createdAt == existing().createdAt &&
+                       incoming().diff(existing()).affectedKeys().hasOnly([
+                         'displayName', 'xp', 'streakDays', 'topicsCompleted',
+                         'testsCompleted', 'badgesCount', 'publicVisible', 'updatedAt'
+                       ]);
+      allow delete: if isOwner(userId) && isValidId(userId);
+    }
+  }
+}
