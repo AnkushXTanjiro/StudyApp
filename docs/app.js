@@ -11,7 +11,7 @@ const APK_CONFIG = {
   appName: "StudyApp",
   version: "1.0.0",
   apkFileName: "StudyApp-v1.0.apk",
-  apkUrl: "./StudyApp-v1.0.apk",
+  apkUrl: "https://github.com/AnkushXTanjiro/StudyApp/releases/latest/download/StudyApp-v1.0.apk",
   minAndroid: "Android 7.0+",
   telegramUrl: "https://t.me/Lord_Yoriche",
 };
